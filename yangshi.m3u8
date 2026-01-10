@@ -1,135 +1,135 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TVB_wu_xian_xin_wen_tai" tvg-logo="" group-title="yangshi",source="168",TVB无线新闻台
+#EXTINF:-1 tvg-id="TVB_wu_xian_xin_wen_tai.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="168",TVB无线新闻台
 https://hls.168.us.kg/u/83/master.m3u8
-#EXTINF:-1 tvg-id="TVB_fei_cui_tai" tvg-logo="" group-title="yangshi",source="168",TVB翡翠台
+#EXTINF:-1 tvg-id="TVB_fei_cui_tai.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="168",TVB翡翠台
 https://hls.168.us.kg/u/81/master.m3u8
-#EXTINF:-1 tvg-id="Now_xin_wen_tai" tvg-logo="" group-title="yangshi",source="168",Now新闻台
+#EXTINF:-1 tvg-id="Now_xin_wen_tai.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="168",Now新闻台
 https://hls.168.us.kg/u/332/master.m3u8
-#EXTINF:-1 tvg-id="Now_zhi_bo_tai" tvg-logo="" group-title="yangshi",source="168",Now直播台
+#EXTINF:-1 tvg-id="Now_zhi_bo_tai.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="168",Now直播台
 https://hls.168.us.kg/u/331/master.m3u8
-#EXTINF:-1 tvg-id="Viu TV" tvg-logo="" group-title="yangshi",source="168",Viu TV
+#EXTINF:-1 tvg-id="Viu TV.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="168",Viu TV
 https://hls.168.us.kg/u/96/master.m3u8
-#EXTINF:-1 tvg-id="CCTV-5_ti_yu" tvg-logo="" group-title="yangshi",source="huuc",CCTV-5体育
+#EXTINF:-1 tvg-id="CCTV-5_ti_yu.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="huuc",CCTV-5体育
 https://timetv.fit/http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-5+_sai_shi" tvg-logo="" group-title="yangshi",source="huuc",CCTV-5+赛事
+#EXTINF:-1 tvg-id="CCTV-5+_sai_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="huuc",CCTV-5+赛事
 https://timetv.fit/http://iptv.huuc.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 tvg-id="guo_jia_di_li" tvg-logo="" group-title="yangshi",source="huuc",国家地理
+#EXTINF:-1 tvg-id="guo_jia_di_li.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="huuc",国家地理
 https://timetv.shop/http://iptv.huuc.edu.cn/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-id="xing_kong_wei_shi" tvg-logo="" group-title="yangshi",source="huuc",星空卫视
+#EXTINF:-1 tvg-id="xing_kong_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="huuc",星空卫视
 https://timetv.shop/http://iptv.huuc.edu.cn/hls/startv.m3u8
-#EXTINF:-1 tvg-id="tan_suo_pin_dao" tvg-logo="" group-title="yangshi",source="huuc",探索频道
+#EXTINF:-1 tvg-id="tan_suo_pin_dao.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="huuc",探索频道
 https://timetv.shop/http://iptv.huuc.edu.cn/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="Channel [V]" tvg-logo="" group-title="yangshi",source="huuc",Channel [V]
+#EXTINF:-1 tvg-id="Channel [V].us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="huuc",Channel [V]
 https://timetv.shop/http://iptv.huuc.edu.cn/hls/channelv.m3u8
-#EXTINF:-1 tvg-id="Star Sports" tvg-logo="" group-title="yangshi",source="huuc",Star Sports
+#EXTINF:-1 tvg-id="Star Sports.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="huuc",Star Sports
 https://timetv.shop/http://iptv.huuc.edu.cn/hls/starsports.m3u8
-#EXTINF:-1 tvg-id="feng_huang_zi_xun" tvg-logo="" group-title="yangshi",source="kylintv",凤凰资讯
+#EXTINF:-1 tvg-id="feng_huang_zi_xun.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="kylintv",凤凰资讯
 https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
-#EXTINF:-1 tvg-id="feng_huang_zhong_wen" tvg-logo="" group-title="yangshi",source="kylintv",凤凰中文
+#EXTINF:-1 tvg-id="feng_huang_zhong_wen.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="kylintv",凤凰中文
 https://k44991.kylintv.tv/live/pxna_iphone.m3u8
-#EXTINF:-1 tvg-id="feng_huang_xiang_gang" tvg-logo="" group-title="yangshi",source="kylintv",凤凰香港
+#EXTINF:-1 tvg-id="feng_huang_xiang_gang.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="kylintv",凤凰香港
 https://k44991.kylintv.tv/live/pxhkus_iphone.m3u8
-#EXTINF:-1 tvg-id="CCTV-6_dian_ying" tvg-logo="" group-title="yangshi",source="kylintv",CCTV-6电影
+#EXTINF:-1 tvg-id="CCTV-6_dian_ying.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="kylintv",CCTV-6电影
 https://xv4766.kylintv.tv/live/cctv6hd_iphone.m3u8
-#EXTINF:-1 tvg-id="bei_jing_wei_shi" tvg-logo="" group-title="yangshi",source="kylintv",北京卫视
+#EXTINF:-1 tvg-id="bei_jing_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="kylintv",北京卫视
 https://xv4766.kylintv.tv/live/btvhd_iphone.m3u8
-#EXTINF:-1 tvg-id="dong_fang_wei_shi" tvg-logo="" group-title="yangshi",source="kylintv",东方卫视
+#EXTINF:-1 tvg-id="dong_fang_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="kylintv",东方卫视
 https://xv4766.kylintv.tv/live/dragontvhd_iphone.m3u8
-#EXTINF:-1 tvg-id="guang_dong_wei_shi" tvg-logo="" group-title="yangshi",source="kylintv",广东卫视
+#EXTINF:-1 tvg-id="guang_dong_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="kylintv",广东卫视
 https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
-#EXTINF:-1 tvg-id="guang_xi_wei_shi" tvg-logo="" group-title="yangshi",source="kylintv",广西卫视
+#EXTINF:-1 tvg-id="guang_xi_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="kylintv",广西卫视
 https://xv4766.kylintv.tv/live/guangxitv_iphone.m3u8
-#EXTINF:-1 tvg-id="hu_nan_wei_shi" tvg-logo="" group-title="yangshi",source="kylintv",湖南卫视
+#EXTINF:-1 tvg-id="hu_nan_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="kylintv",湖南卫视
 https://k44991.kylintv.tv/live/huntvhd_iphone.m3u8
-#EXTINF:-1 tvg-id="zhe_jiang_wei_shi" tvg-logo="" group-title="yangshi",source="kylintv",浙江卫视
+#EXTINF:-1 tvg-id="zhe_jiang_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="kylintv",浙江卫视
 https://xv4766.kylintv.tv/live/zhejtvhd_iphone.m3u8
-#EXTINF:-1 tvg-id="jiang_su_wei_shi" tvg-logo="" group-title="yangshi",source="kylintv",江苏卫视
+#EXTINF:-1 tvg-id="jiang_su_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="kylintv",江苏卫视
 https://xv4766.kylintv.tv/live/jstvhd_iphone.m3u8
-#EXTINF:-1 tvg-id="an_hui_wei_shi" tvg-logo="" group-title="yangshi",source="kylintv",安徽卫视
+#EXTINF:-1 tvg-id="an_hui_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="kylintv",安徽卫视
 https://xv4766.kylintv.tv/live/ahtvhd_iphone.m3u8
-#EXTINF:-1 tvg-id="gui_zhou_wei_shi" tvg-logo="" group-title="yangshi",source="kylintv",贵州卫视
+#EXTINF:-1 tvg-id="gui_zhou_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="kylintv",贵州卫视
 https://k44991.kylintv.tv/live/guizhoutv_iphone.m3u8
-#EXTINF:-1 tvg-id="hu_bei_wei_shi" tvg-logo="" group-title="yangshi",source="kylintv",湖北卫视
+#EXTINF:-1 tvg-id="hu_bei_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="kylintv",湖北卫视
 https://k44991.kylintv.tv/live/hubeitv_iphone.m3u8
-#EXTINF:-1 tvg-id="zhong_guo_dian_ying" tvg-logo="" group-title="yangshi",source="kylintv",中国电影
+#EXTINF:-1 tvg-id="zhong_guo_dian_ying.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="kylintv",中国电影
 https://k44991.kylintv.tv/live/chinamovie_iphone.m3u8
-#EXTINF:-1 tvg-id="chang_jiang_ju_chang" tvg-logo="" group-title="yangshi",source="kylintv",长江剧场
+#EXTINF:-1 tvg-id="chang_jiang_ju_chang.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="kylintv",长江剧场
 https://k44991.kylintv.tv/live/yangtse_iphone.m3u8
-#EXTINF:-1 tvg-id="kun_lun_ju_chang" tvg-logo="" group-title="yangshi",source="kylintv",昆仑剧场
+#EXTINF:-1 tvg-id="kun_lun_ju_chang.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="kylintv",昆仑剧场
 https://k44991.kylintv.tv/live/kunlunhd_iphone.m3u8
-#EXTINF:-1 tvg-id="di_yi_cai_jing" tvg-logo="" group-title="yangshi",source="kylintv",第一财经
+#EXTINF:-1 tvg-id="di_yi_cai_jing.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="kylintv",第一财经
 https://xv4766.kylintv.tv/live/snvn_iphone.m3u8
-#EXTINF:-1 tvg-id="bei_mei_xin_wen" tvg-logo="" group-title="yangshi",source="kylintv",北美新闻
+#EXTINF:-1 tvg-id="bei_mei_xin_wen.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="kylintv",北美新闻
 https://k44991.kylintv.tv/live/qljdhd_iphone.m3u8
-#EXTINF:-1 tvg-id="lan_mei_guo_ji" tvg-logo="" group-title="yangshi",source="kylintv",澜湄国际
+#EXTINF:-1 tvg-id="lan_mei_guo_ji.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="kylintv",澜湄国际
 https://xv4766.kylintv.tv/live/yntv_iphone.m3u8
-#EXTINF:-1 tvg-id="zhong_tian_xin_wen" tvg-logo="" group-title="yangshi",source="kylintv",中天新闻
+#EXTINF:-1 tvg-id="zhong_tian_xin_wen.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="kylintv",中天新闻
 https://k44991.kylintv.tv/live/cti_iphone.m3u8
-#EXTINF:-1 tvg-id="hua_shi" tvg-logo="" group-title="yangshi",source="kylintv",华视
+#EXTINF:-1 tvg-id="hua_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="kylintv",华视
 https://k44991.kylintv.tv/live/ctshd_iphone.m3u8
-#EXTINF:-1 tvg-id="min_shi" tvg-logo="" group-title="yangshi",source="kylintv",民视
+#EXTINF:-1 tvg-id="min_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="kylintv",民视
 https://k44991.kylintv.tv/live/formosatv_iphone.m3u8
-#EXTINF:-1 tvg-id="CCTV-4_zhong_wen_guo_ji_mei_zhou" tvg-logo="" group-title="yangshi",source="wcetv",CCTV-4中文国际美洲
+#EXTINF:-1 tvg-id="CCTV-4_zhong_wen_guo_ji_mei_zhou.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="wcetv",CCTV-4中文国际美洲
 https://hc9lby9bzw8zcar.wcetv.com/hls/cctv4.m3u8
-#EXTINF:-1 tvg-id="yun_nan_wei_shi" tvg-logo="" group-title="yangshi",source="wcetv",云南卫视
+#EXTINF:-1 tvg-id="yun_nan_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="wcetv",云南卫视
 https://hc9lby9bzw8zcar.wcetv.com/hls/yunnantv.m3u8
-#EXTINF:-1 tvg-id="guang_dong_wei_shi" tvg-logo="" group-title="yangshi",source="wcetv",广东卫视
+#EXTINF:-1 tvg-id="guang_dong_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="wcetv",广东卫视
 https://hc9lby9bzw8zcar.wcetv.com/hls/gdsatellite.m3u8
-#EXTINF:-1 tvg-id="da_wan_qu_wei_shi" tvg-logo="" group-title="yangshi",source="wcetv",大湾区卫视
+#EXTINF:-1 tvg-id="da_wan_qu_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="wcetv",大湾区卫视
 https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
-#EXTINF:-1 tvg-id="tai_shi_xin_wen" tvg-logo="" group-title="yangshi",source="wcetv",台视新闻
+#EXTINF:-1 tvg-id="tai_shi_xin_wen.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="wcetv",台视新闻
 https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
-#EXTINF:-1 tvg-id="tai_wan_yuan_shi" tvg-logo="" group-title="yangshi",source="wcetv",台湾原视
+#EXTINF:-1 tvg-id="tai_wan_yuan_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="wcetv",台湾原视
 https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8
-#EXTINF:-1 tvg-id="ke_jia_dian_shi" tvg-logo="" group-title="yangshi",source="wcetv",客家电视
+#EXTINF:-1 tvg-id="ke_jia_dian_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="wcetv",客家电视
 https://hc9lby9bzw8zcar.wcetv.com/hls/hakkatv.m3u8
-#EXTINF:-1 tvg-id="CCTV-1_zong_he" tvg-logo="" group-title="yangshi",source="yunmei",CCTV-1综合
+#EXTINF:-1 tvg-id="CCTV-1_zong_he.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="yunmei",CCTV-1综合
 https://yunmei.tv/cctv/cctv-1.m3u8
-#EXTINF:-1 tvg-id="CCTV-2_cai_jing" tvg-logo="" group-title="yangshi",source="yunmei",CCTV-2财经
+#EXTINF:-1 tvg-id="CCTV-2_cai_jing.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="yunmei",CCTV-2财经
 https://yunmei.tv/cctv/cctv-2.m3u8
-#EXTINF:-1 tvg-id="CCTV-3_zong_yi" tvg-logo="" group-title="yangshi",source="yunmei",CCTV-3综艺
+#EXTINF:-1 tvg-id="CCTV-3_zong_yi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="yunmei",CCTV-3综艺
 https://yunmei.tv/cctv/cctv-3.m3u8
-#EXTINF:-1 tvg-id="CCTV-4_zhong_wen_guo_ji" tvg-logo="" group-title="yangshi",source="yunmei",CCTV-4中文国际
+#EXTINF:-1 tvg-id="CCTV-4_zhong_wen_guo_ji.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="yunmei",CCTV-4中文国际
 https://yunmei.tv/cctv/cctv-4.m3u8
-#EXTINF:-1 tvg-id="CCTV-5_ti_yu" tvg-logo="" group-title="yangshi",source="yunmei",CCTV-5体育
+#EXTINF:-1 tvg-id="CCTV-5_ti_yu.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="yunmei",CCTV-5体育
 https://yunmei.tv/cctv/cctv-5.m3u8
-#EXTINF:-1 tvg-id="CCTV-5+_sai_shi" tvg-logo="" group-title="yangshi",source="yunmei",CCTV-5+赛事
+#EXTINF:-1 tvg-id="CCTV-5+_sai_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="yunmei",CCTV-5+赛事
 https://yunmei.tv/cctv/cctv-5+.m3u8
-#EXTINF:-1 tvg-id="CCTV-6_dian_ying" tvg-logo="" group-title="yangshi",source="yunmei",CCTV-6电影
+#EXTINF:-1 tvg-id="CCTV-6_dian_ying.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="yunmei",CCTV-6电影
 https://yunmei.tv/cctv/cctv-6.m3u8
-#EXTINF:-1 tvg-id="CCTV-7_guo_fang_jun_shi" tvg-logo="" group-title="yangshi",source="yunmei",CCTV-7国防军事
+#EXTINF:-1 tvg-id="CCTV-7_guo_fang_jun_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="yunmei",CCTV-7国防军事
 https://yunmei.tv/cctv/cctv-7.m3u8
-#EXTINF:-1 tvg-id="CCTV-8_dian_shi_ju" tvg-logo="" group-title="yangshi",source="yunmei",CCTV-8电视剧
+#EXTINF:-1 tvg-id="CCTV-8_dian_shi_ju.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="yunmei",CCTV-8电视剧
 https://yunmei.tv/cctv/cctv-8.m3u8
-#EXTINF:-1 tvg-id="CCTV-10_ke_jiao" tvg-logo="" group-title="yangshi",source="yunmei",CCTV-10科教
+#EXTINF:-1 tvg-id="CCTV-10_ke_jiao.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="yunmei",CCTV-10科教
 https://yunmei.tv/cctv/cctv-10.m3u8
-#EXTINF:-1 tvg-id="CCTV-12_she_hui_yu_fa" tvg-logo="" group-title="yangshi",source="yunmei",CCTV-12社会与法
+#EXTINF:-1 tvg-id="CCTV-12_she_hui_yu_fa.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="yunmei",CCTV-12社会与法
 https://yunmei.tv/cctv/cctv-12.m3u8
-#EXTINF:-1 tvg-id="CCTV-13_xin_wen" tvg-logo="" group-title="yangshi",source="yunmei",CCTV-13新闻
+#EXTINF:-1 tvg-id="CCTV-13_xin_wen.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="yunmei",CCTV-13新闻
 https://yunmei.tv/cctv/cctv-13.m3u8
-#EXTINF:-1 tvg-id="CCTV-14_shao_er" tvg-logo="" group-title="yangshi",source="yunmei",CCTV-14少儿
+#EXTINF:-1 tvg-id="CCTV-14_shao_er.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="yunmei",CCTV-14少儿
 https://yunmei.tv/cctv/cctv-14.m3u8
-#EXTINF:-1 tvg-id="an_hui_wei_shi" tvg-logo="" group-title="yangshi",source="yunmei",安徽卫视
+#EXTINF:-1 tvg-id="an_hui_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="yunmei",安徽卫视
 https://yunmei.tv/wscn/anhui.m3u8
-#EXTINF:-1 tvg-id="bei_jing_wei_shi" tvg-logo="" group-title="yangshi",source="yunmei",北京卫视
+#EXTINF:-1 tvg-id="bei_jing_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="yunmei",北京卫视
 https://yunmei.tv/wscn/beijing.m3u8
-#EXTINF:-1 tvg-id="dong_fang_wei_shi" tvg-logo="" group-title="yangshi",source="yunmei",东方卫视
+#EXTINF:-1 tvg-id="dong_fang_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="yunmei",东方卫视
 https://yunmei.tv/wscn/dongfang.m3u8
-#EXTINF:-1 tvg-id="dong_nan_wei_shi" tvg-logo="" group-title="yangshi",source="yunmei",东南卫视
+#EXTINF:-1 tvg-id="dong_nan_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="yunmei",东南卫视
 https://yunmei.tv/wscn/dongnan.m3u8
-#EXTINF:-1 tvg-id="hei_long_jiang_wei_shi" tvg-logo="" group-title="yangshi",source="yunmei",黑龙江卫视
+#EXTINF:-1 tvg-id="hei_long_jiang_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="yunmei",黑龙江卫视
 https://yunmei.tv/wscn/heilongjiang.m3u8
-#EXTINF:-1 tvg-id="hu_nan_wei_shi" tvg-logo="" group-title="yangshi",source="yunmei",湖南卫视
+#EXTINF:-1 tvg-id="hu_nan_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="yunmei",湖南卫视
 https://yunmei.tv/wscn/hunan.m3u8
-#EXTINF:-1 tvg-id="jiang_su_wei_shi" tvg-logo="" group-title="yangshi",source="yunmei",江苏卫视
+#EXTINF:-1 tvg-id="jiang_su_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="yunmei",江苏卫视
 https://yunmei.tv/wscn/jiangsu.m3u8
-#EXTINF:-1 tvg-id="jiang_xi_wei_shi" tvg-logo="" group-title="yangshi",source="yunmei",江西卫视
+#EXTINF:-1 tvg-id="jiang_xi_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="yunmei",江西卫视
 https://yunmei.tv/wscn/jiangxi.m3u8
-#EXTINF:-1 tvg-id="liao_ning_wei_shi" tvg-logo="" group-title="yangshi",source="yunmei",辽宁卫视
+#EXTINF:-1 tvg-id="liao_ning_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="yunmei",辽宁卫视
 https://yunmei.tv/wscn/liaoning.m3u8
-#EXTINF:-1 tvg-id="shan_dong_wei_shi" tvg-logo="" group-title="yangshi",source="yunmei",山东卫视
+#EXTINF:-1 tvg-id="shan_dong_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="yunmei",山东卫视
 https://yunmei.tv/wscn/shandong.m3u8
-#EXTINF:-1 tvg-id="si_chuan_wei_shi" tvg-logo="" group-title="yangshi",source="yunmei",四川卫视
+#EXTINF:-1 tvg-id="si_chuan_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="yunmei",四川卫视
 https://yunmei.tv/wscn/sichuan.m3u8
-#EXTINF:-1 tvg-id="zhe_jiang_wei_shi" tvg-logo="" group-title="yangshi",source="yunmei",浙江卫视
+#EXTINF:-1 tvg-id="zhe_jiang_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="yangshi",source="yunmei",浙江卫视
 https://yunmei.tv/wscn/zhejiang.m3u8
