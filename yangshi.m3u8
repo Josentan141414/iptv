@@ -1,135 +1,135 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TVB_wu_xian_xin_wen_tai.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",TVBŒﬁœﬂ–¬Œ≈Ã®
+#EXTINF:-1 tvg-id="TvbWuXianXinWenTai.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",TVBÊó†Á∫øÊñ∞ÈóªÂè∞
 https://hls.168.us.kg/u/83/master.m3u8
-#EXTINF:-1 tvg-id="TVB_fei_cui_tai.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",TVBÙ‰¥‰Ã®
+#EXTINF:-1 tvg-id="TvbFeiCuiTai.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",TVBÁø°Áø†Âè∞
 https://hls.168.us.kg/u/81/master.m3u8
-#EXTINF:-1 tvg-id="Now_xin_wen_tai.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Now–¬Œ≈Ã®
+#EXTINF:-1 tvg-id="NowXinWenTai.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",NowÊñ∞ÈóªÂè∞
 https://hls.168.us.kg/u/332/master.m3u8
-#EXTINF:-1 tvg-id="Now_zhi_bo_tai.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Now÷±≤•Ã®
+#EXTINF:-1 tvg-id="NowZhiBoTai.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",NowÁõ¥Êí≠Âè∞
 https://hls.168.us.kg/u/331/master.m3u8
-#EXTINF:-1 tvg-id="Viu TV.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Viu TV
+#EXTINF:-1 tvg-id="Viu tv.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Viu TV
 https://hls.168.us.kg/u/96/master.m3u8
-#EXTINF:-1 tvg-id="CCTV-5_ti_yu.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-5ÃÂ”˝
+#EXTINF:-1 tvg-id="Cctv-5TiYu.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-5‰ΩìËÇ≤
 https://timetv.fit/http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-5+_sai_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-5+»¸ ¬
+#EXTINF:-1 tvg-id="Cctv-5+SaiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-5+Ëµõ‰∫ã
 https://timetv.fit/http://iptv.huuc.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 tvg-id="guo_jia_di_li.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",π˙º“µÿ¿Ì
+#EXTINF:-1 tvg-id="GuoJiaDiLi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",ÂõΩÂÆ∂Âú∞ÁêÜ
 https://timetv.shop/http://iptv.huuc.edu.cn/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-id="xing_kong_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",–«ø’Œ¿ ”
+#EXTINF:-1 tvg-id="XingKongWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",ÊòüÁ©∫Âç´ËßÜ
 https://timetv.shop/http://iptv.huuc.edu.cn/hls/startv.m3u8
-#EXTINF:-1 tvg-id="tan_suo_pin_dao.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",ÃΩÀ˜∆µµ¿
+#EXTINF:-1 tvg-id="TanSuoPinDao.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Êé¢Á¥¢È¢ëÈÅì
 https://timetv.shop/http://iptv.huuc.edu.cn/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="Channel [V].us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Channel [V]
+#EXTINF:-1 tvg-id="Channel [v].cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Channel [V]
 https://timetv.shop/http://iptv.huuc.edu.cn/hls/channelv.m3u8
-#EXTINF:-1 tvg-id="Star Sports.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Star Sports
+#EXTINF:-1 tvg-id="Star sports.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Star Sports
 https://timetv.shop/http://iptv.huuc.edu.cn/hls/starsports.m3u8
-#EXTINF:-1 tvg-id="feng_huang_zi_xun.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",∑ÔªÀ◊ —∂
+#EXTINF:-1 tvg-id="FengHuangZiXun.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Âá§Âá∞ËµÑËÆØ
 https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
-#EXTINF:-1 tvg-id="feng_huang_zhong_wen.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",∑ÔªÀ÷–Œƒ
+#EXTINF:-1 tvg-id="FengHuangZhongWen.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Âá§Âá∞‰∏≠Êñá
 https://k44991.kylintv.tv/live/pxna_iphone.m3u8
-#EXTINF:-1 tvg-id="feng_huang_xiang_gang.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",∑ÔªÀœ„∏€
+#EXTINF:-1 tvg-id="FengHuangXiangGang.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Âá§Âá∞È¶ôÊ∏Ø
 https://k44991.kylintv.tv/live/pxhkus_iphone.m3u8
-#EXTINF:-1 tvg-id="CCTV-6_dian_ying.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-6µÁ”∞
+#EXTINF:-1 tvg-id="Cctv-6DianYing.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-6ÁîµÂΩ±
 https://xv4766.kylintv.tv/live/cctv6hd_iphone.m3u8
-#EXTINF:-1 tvg-id="bei_jing_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",±±æ©Œ¿ ”
+#EXTINF:-1 tvg-id="BeiJingWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Âåó‰∫¨Âç´ËßÜ
 https://xv4766.kylintv.tv/live/btvhd_iphone.m3u8
-#EXTINF:-1 tvg-id="dong_fang_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",∂´∑ΩŒ¿ ”
+#EXTINF:-1 tvg-id="DongFangWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",‰∏úÊñπÂç´ËßÜ
 https://xv4766.kylintv.tv/live/dragontvhd_iphone.m3u8
-#EXTINF:-1 tvg-id="guang_dong_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",π„∂´Œ¿ ”
+#EXTINF:-1 tvg-id="GuangDongWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Âπø‰∏úÂç´ËßÜ
 https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
-#EXTINF:-1 tvg-id="guang_xi_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",π„Œ˜Œ¿ ”
+#EXTINF:-1 tvg-id="GuangXiWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",ÂπøË•øÂç´ËßÜ
 https://xv4766.kylintv.tv/live/guangxitv_iphone.m3u8
-#EXTINF:-1 tvg-id="hu_nan_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",∫˛ƒœŒ¿ ”
+#EXTINF:-1 tvg-id="HuNanWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",ÊπñÂçóÂç´ËßÜ
 https://k44991.kylintv.tv/live/huntvhd_iphone.m3u8
-#EXTINF:-1 tvg-id="zhe_jiang_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",’„Ω≠Œ¿ ”
+#EXTINF:-1 tvg-id="ZheJiangWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",ÊµôÊ±üÂç´ËßÜ
 https://xv4766.kylintv.tv/live/zhejtvhd_iphone.m3u8
-#EXTINF:-1 tvg-id="jiang_su_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Ω≠À’Œ¿ ”
+#EXTINF:-1 tvg-id="JiangSuWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Ê±üËãèÂç´ËßÜ
 https://xv4766.kylintv.tv/live/jstvhd_iphone.m3u8
-#EXTINF:-1 tvg-id="an_hui_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",∞≤ª’Œ¿ ”
+#EXTINF:-1 tvg-id="AnHuiWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",ÂÆâÂæΩÂç´ËßÜ
 https://xv4766.kylintv.tv/live/ahtvhd_iphone.m3u8
-#EXTINF:-1 tvg-id="gui_zhou_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",πÛ÷›Œ¿ ”
+#EXTINF:-1 tvg-id="GuiZhouWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Ë¥µÂ∑ûÂç´ËßÜ
 https://k44991.kylintv.tv/live/guizhoutv_iphone.m3u8
-#EXTINF:-1 tvg-id="hu_bei_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",∫˛±±Œ¿ ”
+#EXTINF:-1 tvg-id="HuBeiWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",ÊπñÂåóÂç´ËßÜ
 https://k44991.kylintv.tv/live/hubeitv_iphone.m3u8
-#EXTINF:-1 tvg-id="zhong_guo_dian_ying.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",÷–π˙µÁ”∞
+#EXTINF:-1 tvg-id="ZhongGuoDianYing.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",‰∏≠ÂõΩÁîµÂΩ±
 https://k44991.kylintv.tv/live/chinamovie_iphone.m3u8
-#EXTINF:-1 tvg-id="chang_jiang_ju_chang.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",≥§Ω≠æÁ≥°
+#EXTINF:-1 tvg-id="ChangJiangJuChang.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",ÈïøÊ±üÂâßÂú∫
 https://k44991.kylintv.tv/live/yangtse_iphone.m3u8
-#EXTINF:-1 tvg-id="kun_lun_ju_chang.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",¿•¬ÿæÁ≥°
+#EXTINF:-1 tvg-id="KunLunJuChang.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",ÊòÜ‰ªëÂâßÂú∫
 https://k44991.kylintv.tv/live/kunlunhd_iphone.m3u8
-#EXTINF:-1 tvg-id="di_yi_cai_jing.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",µ⁄“ª≤∆æ≠
+#EXTINF:-1 tvg-id="DiYiCaiJing.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Á¨¨‰∏ÄË¥¢Áªè
 https://xv4766.kylintv.tv/live/snvn_iphone.m3u8
-#EXTINF:-1 tvg-id="bei_mei_xin_wen.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",±±√¿–¬Œ≈
+#EXTINF:-1 tvg-id="BeiMeiXinWen.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",ÂåóÁæéÊñ∞Èóª
 https://k44991.kylintv.tv/live/qljdhd_iphone.m3u8
-#EXTINF:-1 tvg-id="lan_mei_guo_ji.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",¿Ω‰ÿπ˙º 
+#EXTINF:-1 tvg-id="LanMeiGuoJi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",ÊæúÊπÑÂõΩÈôÖ
 https://xv4766.kylintv.tv/live/yntv_iphone.m3u8
-#EXTINF:-1 tvg-id="zhong_tian_xin_wen.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",÷–ÃÏ–¬Œ≈
+#EXTINF:-1 tvg-id="ZhongTianXinWen.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",‰∏≠Â§©Êñ∞Èóª
 https://k44991.kylintv.tv/live/cti_iphone.m3u8
-#EXTINF:-1 tvg-id="hua_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",ª™ ”
+#EXTINF:-1 tvg-id="HuaShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",ÂçéËßÜ
 https://k44991.kylintv.tv/live/ctshd_iphone.m3u8
-#EXTINF:-1 tvg-id="min_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",√Ò ”
+#EXTINF:-1 tvg-id="MinShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Ê∞ëËßÜ
 https://k44991.kylintv.tv/live/formosatv_iphone.m3u8
-#EXTINF:-1 tvg-id="CCTV-4_zhong_wen_guo_ji_mei_zhou.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-4÷–Œƒπ˙º √¿÷ﬁ
+#EXTINF:-1 tvg-id="Cctv-4ZhongWenGuoJiMeiZhou.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-4‰∏≠ÊñáÂõΩÈôÖÁæéÊ¥≤
 https://hc9lby9bzw8zcar.wcetv.com/hls/cctv4.m3u8
-#EXTINF:-1 tvg-id="yun_nan_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",‘∆ƒœŒ¿ ”
+#EXTINF:-1 tvg-id="YunNanWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",‰∫ëÂçóÂç´ËßÜ
 https://hc9lby9bzw8zcar.wcetv.com/hls/yunnantv.m3u8
-#EXTINF:-1 tvg-id="guang_dong_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",π„∂´Œ¿ ”
+#EXTINF:-1 tvg-id="GuangDongWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Âπø‰∏úÂç´ËßÜ
 https://hc9lby9bzw8zcar.wcetv.com/hls/gdsatellite.m3u8
-#EXTINF:-1 tvg-id="da_wan_qu_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",¥ÛÕÂ«¯Œ¿ ”
+#EXTINF:-1 tvg-id="DaWanQuWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Â§ßÊπæÂå∫Âç´ËßÜ
 https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
-#EXTINF:-1 tvg-id="tai_shi_xin_wen.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Ã® ”–¬Œ≈
+#EXTINF:-1 tvg-id="TaiShiXinWen.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Âè∞ËßÜÊñ∞Èóª
 https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
-#EXTINF:-1 tvg-id="tai_wan_yuan_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Ã®ÕÂ‘≠ ”
+#EXTINF:-1 tvg-id="TaiWanYuanShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Âè∞ÊπæÂéüËßÜ
 https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8
-#EXTINF:-1 tvg-id="ke_jia_dian_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",øÕº“µÁ ”
+#EXTINF:-1 tvg-id="KeJiaDianShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",ÂÆ¢ÂÆ∂ÁîµËßÜ
 https://hc9lby9bzw8zcar.wcetv.com/hls/hakkatv.m3u8
-#EXTINF:-1 tvg-id="CCTV-1_zong_he.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-1◊€∫œ
+#EXTINF:-1 tvg-id="Cctv-1ZongHe.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-1ÁªºÂêà
 https://yunmei.tv/cctv/cctv-1.m3u8
-#EXTINF:-1 tvg-id="CCTV-2_cai_jing.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-2≤∆æ≠
+#EXTINF:-1 tvg-id="Cctv-2CaiJing.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-2Ë¥¢Áªè
 https://yunmei.tv/cctv/cctv-2.m3u8
-#EXTINF:-1 tvg-id="CCTV-3_zong_yi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-3◊€“’
+#EXTINF:-1 tvg-id="Cctv-3ZongYi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-3ÁªºËâ∫
 https://yunmei.tv/cctv/cctv-3.m3u8
-#EXTINF:-1 tvg-id="CCTV-4_zhong_wen_guo_ji.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-4÷–Œƒπ˙º 
+#EXTINF:-1 tvg-id="Cctv-4ZhongWenGuoJi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-4‰∏≠ÊñáÂõΩÈôÖ
 https://yunmei.tv/cctv/cctv-4.m3u8
-#EXTINF:-1 tvg-id="CCTV-5_ti_yu.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-5ÃÂ”˝
+#EXTINF:-1 tvg-id="Cctv-5TiYu.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-5‰ΩìËÇ≤
 https://yunmei.tv/cctv/cctv-5.m3u8
-#EXTINF:-1 tvg-id="CCTV-5+_sai_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-5+»¸ ¬
+#EXTINF:-1 tvg-id="Cctv-5+SaiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-5+Ëµõ‰∫ã
 https://yunmei.tv/cctv/cctv-5+.m3u8
-#EXTINF:-1 tvg-id="CCTV-6_dian_ying.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-6µÁ”∞
+#EXTINF:-1 tvg-id="Cctv-6DianYing.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-6ÁîµÂΩ±
 https://yunmei.tv/cctv/cctv-6.m3u8
-#EXTINF:-1 tvg-id="CCTV-7_guo_fang_jun_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-7π˙∑¿æ¸ ¬
+#EXTINF:-1 tvg-id="Cctv-7GuoFangJunShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-7ÂõΩÈò≤ÂÜõ‰∫ã
 https://yunmei.tv/cctv/cctv-7.m3u8
-#EXTINF:-1 tvg-id="CCTV-8_dian_shi_ju.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-8µÁ ”æÁ
+#EXTINF:-1 tvg-id="Cctv-8DianShiJu.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-8ÁîµËßÜÂâß
 https://yunmei.tv/cctv/cctv-8.m3u8
-#EXTINF:-1 tvg-id="CCTV-10_ke_jiao.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-10ø∆ΩÃ
+#EXTINF:-1 tvg-id="Cctv-10KeJiao.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-10ÁßëÊïô
 https://yunmei.tv/cctv/cctv-10.m3u8
-#EXTINF:-1 tvg-id="CCTV-12_she_hui_yu_fa.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-12…Áª·”Î∑®
+#EXTINF:-1 tvg-id="Cctv-12SheHuiYuFa.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-12Á§æ‰ºö‰∏éÊ≥ï
 https://yunmei.tv/cctv/cctv-12.m3u8
-#EXTINF:-1 tvg-id="CCTV-13_xin_wen.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-13–¬Œ≈
+#EXTINF:-1 tvg-id="Cctv-13XinWen.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-13Êñ∞Èóª
 https://yunmei.tv/cctv/cctv-13.m3u8
-#EXTINF:-1 tvg-id="CCTV-14_shao_er.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-14…Ÿ∂˘
+#EXTINF:-1 tvg-id="Cctv-14ShaoEr.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",CCTV-14Â∞ëÂÑø
 https://yunmei.tv/cctv/cctv-14.m3u8
-#EXTINF:-1 tvg-id="an_hui_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",∞≤ª’Œ¿ ”
+#EXTINF:-1 tvg-id="AnHuiWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",ÂÆâÂæΩÂç´ËßÜ
 https://yunmei.tv/wscn/anhui.m3u8
-#EXTINF:-1 tvg-id="bei_jing_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",±±æ©Œ¿ ”
+#EXTINF:-1 tvg-id="BeiJingWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Âåó‰∫¨Âç´ËßÜ
 https://yunmei.tv/wscn/beijing.m3u8
-#EXTINF:-1 tvg-id="dong_fang_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",∂´∑ΩŒ¿ ”
+#EXTINF:-1 tvg-id="DongFangWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",‰∏úÊñπÂç´ËßÜ
 https://yunmei.tv/wscn/dongfang.m3u8
-#EXTINF:-1 tvg-id="dong_nan_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",∂´ƒœŒ¿ ”
+#EXTINF:-1 tvg-id="DongNanWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",‰∏úÂçóÂç´ËßÜ
 https://yunmei.tv/wscn/dongnan.m3u8
-#EXTINF:-1 tvg-id="hei_long_jiang_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",∫⁄¡˙Ω≠Œ¿ ”
+#EXTINF:-1 tvg-id="HeiLongJiangWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",ÈªëÈæôÊ±üÂç´ËßÜ
 https://yunmei.tv/wscn/heilongjiang.m3u8
-#EXTINF:-1 tvg-id="hu_nan_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",∫˛ƒœŒ¿ ”
+#EXTINF:-1 tvg-id="HuNanWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",ÊπñÂçóÂç´ËßÜ
 https://yunmei.tv/wscn/hunan.m3u8
-#EXTINF:-1 tvg-id="jiang_su_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Ω≠À’Œ¿ ”
+#EXTINF:-1 tvg-id="JiangSuWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Ê±üËãèÂç´ËßÜ
 https://yunmei.tv/wscn/jiangsu.m3u8
-#EXTINF:-1 tvg-id="jiang_xi_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Ω≠Œ˜Œ¿ ”
+#EXTINF:-1 tvg-id="JiangXiWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Ê±üË•øÂç´ËßÜ
 https://yunmei.tv/wscn/jiangxi.m3u8
-#EXTINF:-1 tvg-id="liao_ning_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",¡…ƒ˛Œ¿ ”
+#EXTINF:-1 tvg-id="LiaoNingWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",ËæΩÂÆÅÂç´ËßÜ
 https://yunmei.tv/wscn/liaoning.m3u8
-#EXTINF:-1 tvg-id="shan_dong_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",…Ω∂´Œ¿ ”
+#EXTINF:-1 tvg-id="ShanDongWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Â±±‰∏úÂç´ËßÜ
 https://yunmei.tv/wscn/shandong.m3u8
-#EXTINF:-1 tvg-id="si_chuan_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",Àƒ¥®Œ¿ ”
+#EXTINF:-1 tvg-id="SiChuanWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",ÂõõÂ∑ùÂç´ËßÜ
 https://yunmei.tv/wscn/sichuan.m3u8
-#EXTINF:-1 tvg-id="zhe_jiang_wei_shi.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",’„Ω≠Œ¿ ”
+#EXTINF:-1 tvg-id="ZheJiangWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movie",ÊµôÊ±üÂç´ËßÜ
 https://yunmei.tv/wscn/zhejiang.m3u8
