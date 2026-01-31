@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Music" tvg-id="CCTV15.cn@SD" tvg-logo="https://i.imgur.com/CCV0eRG.png" valid="false",CCTV-15 (576p)
+http://123.175.209.52:9003/hls/16/index.m3u8

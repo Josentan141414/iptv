@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Movies" tvg-id="AMC.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" valid="true",AMC East (1080p)
+https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8

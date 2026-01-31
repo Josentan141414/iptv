@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Religious" tvg-id="NRBTV.us@SD" tvg-logo="https://i.imgur.com/2PL1Au7.png" valid="true",NRB TV (480p)
+https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8

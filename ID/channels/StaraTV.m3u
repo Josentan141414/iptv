@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" http-referrer="https://malang.staratv.id/" tvg-id="StaraTV.id@Malang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" valid="true",Stara TV Malang (1080p)
+https://malang.staratv.id/hls/0/stream.m3u8

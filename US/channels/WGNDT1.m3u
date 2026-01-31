@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="WGNDT1.us@SD" tvg-logo="https://i.imgur.com/gvHrpnf.png" valid="true",WGN-DT1
+http://23.237.104.106:8080/USA_WGN/index.m3u8

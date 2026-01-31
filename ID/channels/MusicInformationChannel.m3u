@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Music" http-referrer="https://mic-indo.com/live" tvg-id="MusicInformationChannel.id@SD" tvg-logo="https://i.imgur.com/OUPGCWG.png" valid="true",Music Information Channel (720p)
+https://mic.siar.us/mic/live/mic.m3u8

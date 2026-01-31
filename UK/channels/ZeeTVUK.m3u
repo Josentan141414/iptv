@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="ZeeTVUK.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Zee_TV_Logo_2025.svg/512px-Zee_TV_Logo_2025.svg.png" valid="false",Zee TV UK HD (720p)
+http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/ZEE/index.m3u8

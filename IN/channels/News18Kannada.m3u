@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="News" http-referrer="https://kannada.news18.com/" http-user-agent="Mozilla/5." tvg-id="News18Kannada.in@SD" tvg-logo="https://i.imgur.com/3XVFxdO.png" valid="true",News18 Kannada (1080p)
+https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/master.m3u8

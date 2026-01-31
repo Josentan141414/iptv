@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="General" http-referrer="https://jambitv.co.id/live-tv/" tvg-id="JambiTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Jambi_TV.png" valid="true",Jambi TV (480p) [Not 24/7]
+https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8

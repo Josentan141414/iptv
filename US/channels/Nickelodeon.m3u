@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Kids" tvg-id="Nickelodeon.us@East" tvg-logo="https://i.imgur.com/E84jnP8.png" valid="true",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8

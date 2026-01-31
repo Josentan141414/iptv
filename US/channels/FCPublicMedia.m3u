@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="General" tvg-id="FCPublicMedia.us@SD" tvg-logo="https://i.imgur.com/naLbZuo.png" valid="true",FC Public Media (Fort Collins CO) (1080p)
+https://reflect-fcpublicmedia.cablecast.tv/live-5/live/stream-1/live.m3u8

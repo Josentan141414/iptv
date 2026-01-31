@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 group-title="Music" tvg-id="AntenneKaernten.at@SD" tvg-logo="https://i.imgur.com/nUKFDsb.jpeg" valid="true",Antenne Kaernten (720p)
+channels/AntenneKaernten.m3u
+#EXTINF:-1 group-title="Music" tvg-id="AntenneSteiermark.at@SD" tvg-logo="https://i.imgur.com/qnappvd.jpeg" valid="true",Antenne Steiermark (720p)
+channels/AntenneSteiermark.m3u
+#EXTINF:-1 group-title="General" tvg-id="ATV2.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_ATV2.svg/512px-Logo_ATV2.svg.png" valid="true",ATV2 HD
+channels/ATV2.m3u
+#EXTINF:-1 group-title="Entertainment" tvg-id="BalkanRadioSalzburg.at@SD" tvg-logo="https://i.imgur.com/UDyxgXf.png" valid="true",Balkan Radio Salzburg (480p)
+channels/BalkanRadioSalzburg.m3u
+#EXTINF:-1 group-title="General" tvg-id="FS1Salzburg.at@SD" tvg-logo="https://i.imgur.com/74gMaPK.png" valid="true",FS1 Salzburg (720p) [Not 24/7]
+channels/FS1Salzburg.m3u
+#EXTINF:-1 group-title="Sports" tvg-id="FUELTV.at@SD" tvg-logo="https://i.imgur.com/I8mviBy.png" valid="true",FUEL TV (1080p)
+channels/FUELTV.m3u
+#EXTINF:-1 group-title="Music" tvg-id="HitradioO3.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/512px-Hitradio_%C3%963.svg.png" valid="true",Hitradio O3
+channels/HitradioO3.m3u
+#EXTINF:-1 group-title="Religious" tvg-id="KITTV.at@SD" tvg-logo="https://i.imgur.com/5rDo1Za.png" valid="true",KIT-TV (720p)
+channels/KITTV.m3u
+#EXTINF:-1 group-title="Music" tvg-id="Kronehit.at@SD" tvg-logo="https://i.imgur.com/dQJQv1X.png" valid="true",Kronehit (1080p)
+channels/Kronehit.m3u
+#EXTINF:-1 group-title="Religious" tvg-id="KTV.at@SD" tvg-logo="https://i.imgur.com/RYbR4Sf.png" valid="true",K-TV (720p)
+channels/KTV.m3u
+#EXTINF:-1 group-title="General" tvg-id="LandleTV.at@SD" tvg-logo="https://i.imgur.com/omLVQ4r.png" valid="true",Ländle TV (1080p) [Not 24/7]
+channels/LandleTV.m3u
+#EXTINF:-1 group-title="Documentary" tvg-id="N24DokuAustria.at@SD" tvg-logo="https://i.imgur.com/qgoXJu4.png" valid="true",N24 Doku
+channels/N24DokuAustria.m3u
+#EXTINF:-1 group-title="General" tvg-id="Okto.at@SD" tvg-logo="https://i.imgur.com/9XfhgbS.png" valid="true",Okto TV (1080p)
+channels/Okto.m3u
+#EXTINF:-1 group-title="General" tvg-id="ORF1.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/512px-ORF_1_2019.svg.png" valid="true",ORF 1 HD (720p)
+channels/ORF1.m3u
+#EXTINF:-1 group-title="General" tvg-id="ORF2Tirol.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/512px-ORF2_logo_n.svg.png" valid="true",ORF 2 Tirol HD (720p)
+channels/ORF2Tirol.m3u
+#EXTINF:-1 group-title="General" tvg-id="ORF2Wien.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/512px-ORF2_logo_n.svg.png" valid="true",ORF 2 Wien (1080p)
+channels/ORF2Wien.m3u
+#EXTINF:-1 group-title="Culture" tvg-id="ORFIII.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/512px-ORF_III_Logo_Monochrom.svg.png" valid="true",ORF III HD (720p)
+channels/ORFIII.m3u
+#EXTINF:-1 group-title="Kids" tvg-id="ORFKids.at@SD" tvg-logo="https://i.imgur.com/Zxuah2b.png" valid="true",ORF Kids (720p)
+channels/ORFKids.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="R9.at@SD" tvg-logo="https://i.imgur.com/SVJiXxh.png" valid="true",R9 (720p) [Not 24/7]
+channels/R9.m3u
+#EXTINF:-1 group-title="Sports" tvg-id="RedBullTV.at@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" valid="true",Red Bull TV (1080p)
+channels/RedBullTV.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="RTV.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png" valid="true",RTV (1080p) [Not 24/7]
+channels/RTV.m3u
+#EXTINF:-1 group-title="Travel" tvg-id="SchladmingDachsteinTV.at@SD" tvg-logo="https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg" valid="true",Schladming-Dachstein TV (720p)
+channels/SchladmingDachsteinTV.m3u
+#EXTINF:-1 group-title="Movies" tvg-id="ServusTV.at@HD" tvg-logo="https://i.imgur.com/6W637Gn.png" valid="true",ServusTV HD
+channels/ServusTV.m3u
+#EXTINF:-1 group-title="General" tvg-id="SteiermarkTV.at@SD" tvg-logo="https://i.imgur.com/AJrUPze.png" valid="true",Steiermark TV (1080p)
+channels/SteiermarkTV.m3u
+#EXTINF:-1 group-title="General" tvg-id="StimmungsgartenTV.at@SD" tvg-logo="https://i.postimg.cc/FHqh4Rz4/stimmungsgartentv.png" valid="true",Stimmungsgarten TV
+channels/StimmungsgartenTV.m3u
+#EXTINF:-1 group-title="Outdoor" tvg-id="SwamijiTVAmerican.at@SD" tvg-logo="https://i.imgur.com/nrLcuzs.png" valid="true",Swamiji TV American (1080p) [Not 24/7]
+channels/SwamijiTVAmerican.m3u
+#EXTINF:-1 group-title="Outdoor" tvg-id="SwamijiTVAustralian.at@SD" tvg-logo="https://i.imgur.com/nrLcuzs.png" valid="true",Swamiji TV Australian (1080p) [Not 24/7]
+channels/SwamijiTVAustralian.m3u
+#EXTINF:-1 group-title="Outdoor" tvg-id="SwamijiTVEuropean.at@SD" tvg-logo="https://i.imgur.com/nrLcuzs.png" valid="true",Swamiji TV European (1080p) [Not 24/7]
+channels/SwamijiTVEuropean.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="TirolTV.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/TIROL_TV_Logo_2019.png/512px-TIROL_TV_Logo_2019.png" valid="true",Tirol TV (720p) [Not 24/7]
+channels/TirolTV.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="TV1Oberosterreich.at@SD" tvg-logo="https://i.postimg.cc/Qx34YmYp/tv1oberosterreich.png" valid="true",TV 1 Oberösterreich (1080p)
+channels/TV1Oberosterreich.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="W24.at@SD" tvg-logo="https://i.imgur.com/FpVNrxk.png" valid="true",W24 (720p) [Not 24/7]
+channels/W24.m3u

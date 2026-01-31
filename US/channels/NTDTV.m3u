@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="General" tvg-id="NTDTV.us@West" tvg-logo="https://i.postimg.cc/XYGstDdJ/ntdtv.png" valid="true",NTD TV West
+https://live.ntdtv.com/uwlive990/playlist.m3u8

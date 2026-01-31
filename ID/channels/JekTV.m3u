@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="General" http-referrer="http://jektv.co.id/livestreaming/" tvg-id="JekTV.id@SD" tvg-logo="https://i.imgur.com/wh75d1f.png" valid="true",Jek TV (720p) [Not 24/7]
+http://27.124.81.245:1935/jektv/myStream/playlist.m3u8

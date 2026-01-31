@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment" tvg-id="Swantham.in@SD" tvg-logo="https://i.imgur.com/ye6v4GP.png" valid="true",Swantham (576p)
+http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8

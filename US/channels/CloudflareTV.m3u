@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Education" tvg-id="CloudflareTV.us@SD" tvg-logo="https://i.imgur.com/l4m0is8.jpeg" valid="true",Cloudflare TV (720p)
+https://cloudflare.tv/hls/live.m3u8

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment" tvg-id="PetClubTV.hk@SD" tvg-logo="https://i.imgur.com/ykPNNwQ.png" valid="true",Pet Club TV (1080p)
+channels/PetClubTV.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="RTHKTV31.hk@SD" tvg-logo="https://i.imgur.com/kf818kM.png" valid="true",RTHK TV 31 (港台電視31) (1080p) [Geo-blocked]
+channels/RTHKTV31.m3u

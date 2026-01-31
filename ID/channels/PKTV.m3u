@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" http-referrer="https://pktvkaltim.com/acara/live-content/?noam" tvg-id="PKTV.id@SD" tvg-logo="https://i.imgur.com/mldv8Sf.png" valid="true",PKTV (480p) [Not 24/7]
+https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8

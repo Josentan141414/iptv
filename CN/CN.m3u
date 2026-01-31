@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 group-title="Religious" tvg-id="AndoTV.cn@SD" tvg-logo="https://i.imgur.com/EpTsFVu.png" valid="true",Ando TV
+channels/AndoTV.m3u
+#EXTINF:-1 group-title="News" tvg-id="AnshunComprehensiveNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/anshun.jpg" valid="true",Anshun Comprehensive News Channel
+channels/AnshunComprehensiveNewsChannel.m3u
+#EXTINF:-1 group-title="General" tvg-id="BaichengTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/baicheng.jpg" valid="true",白城新闻综合 [Geo-blocked]
+channels/BaichengTV.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="BreadTV.cn@SD" tvg-logo="https://bread-tv.com/uploads/allimg/241202/9_1836542371.png" valid="true",Bread TV面包台 (720p)
+channels/BreadTV.m3u
+#EXTINF:-1 group-title="General" tvg-id="CCTV4America.cn@SD" tvg-logo="https://i.imgur.com/gBbLyqh.png" valid="true",CCTV-4 America (1080p)
+channels/CCTV4America.m3u
+#EXTINF:-1 group-title="General" tvg-id="CCTV4Europe.cn@SD" tvg-logo="https://i.imgur.com/HGLFdfk.png" valid="true",CCTV-4 Europe
+channels/CCTV4Europe.m3u
+#EXTINF:-1 group-title="News" tvg-id="CCTVPlus1.cn@SD" tvg-logo="https://i.imgur.com/U8d4Is6.png" valid="true",CCTV+ 1 (600p) [Not 24/7]
+channels/CCTVPlus1.m3u
+#EXTINF:-1 group-title="News" tvg-id="CCTVPlus2.cn@SD" tvg-logo="https://i.imgur.com/qSg862A.png" valid="true",CCTV+ 2 (600p) [Not 24/7]
+channels/CCTVPlus2.m3u
+#EXTINF:-1 group-title="News" tvg-id="CGTN.cn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" valid="true",CGTN (1080p)
+channels/CGTN.m3u
+#EXTINF:-1 group-title="News" tvg-id="CGTNArabic.cn@SD" tvg-logo="https://i.imgur.com/AkFFrS7.png" valid="true",CGTN Arabic
+channels/CGTNArabic.m3u
+#EXTINF:-1 group-title="Documentary" tvg-id="CGTNDocumentary.cn@SD" tvg-logo="https://i.imgur.com/JHv0WxM.png" valid="true",CGTN Documentary (1080p)
+channels/CGTNDocumentary.m3u
+#EXTINF:-1 group-title="News" tvg-id="CGTNFrench.cn@SD" tvg-logo="https://i.imgur.com/BwhledK.png" valid="true",CGTN French
+channels/CGTNFrench.m3u
+#EXTINF:-1 group-title="News" tvg-id="CGTNRussian.cn@SD" tvg-logo="https://i.imgur.com/nDWkCmL.png" valid="true",CGTN Russian
+channels/CGTNRussian.m3u
+#EXTINF:-1 group-title="News" tvg-id="CGTNSpanish.cn@SD" tvg-logo="https://i.imgur.com/Poz3xfi.png" valid="true",CGTN Spanish
+channels/CGTNSpanish.m3u
+#EXTINF:-1 group-title="News" tvg-id="ChifengComprehensiveNewsChanel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/cfxwzhpd.jpg" valid="true",Chifeng Comprehensive News Chanel
+channels/ChifengComprehensiveNewsChanel.m3u
+#EXTINF:-1 group-title="general" tvg-id="GBASatelliteTV.cn" tvg-logo="" valid="true",GBA Satellite TV
+channels/GBASatelliteTV.m3u
+#EXTINF:-1 group-title="General" tvg-id="GuangzhouTV.cn@SD" tvg-logo="https://i.imgur.com/ff3KQXp.png" valid="true",Guangzhou TV
+channels/GuangzhouTV.m3u
+#EXTINF:-1 group-title="News" tvg-id="HarbinComprehensiveNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" valid="true",Harbin Comprehensive News Channel
+channels/HarbinComprehensiveNewsChannel.m3u
+#EXTINF:-1 group-title="Movies" tvg-id="HarbinMovieChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" valid="true",Harbin Movie Channel
+channels/HarbinMovieChannel.m3u
+#EXTINF:-1 group-title="News" tvg-id="HebiNewsChannel.cn@SD" tvg-logo="https://i.imgur.com/Osw5yRW.png" valid="true",鹤壁新闻综合 (480p) [Not 24/7]
+channels/HebiNewsChannel.m3u
+#EXTINF:-1 group-title="News" tvg-id="QTV1.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv1.jpg" valid="true",QTV-1
+channels/QTV1.m3u
+#EXTINF:-1 group-title="Lifestyle" tvg-id="QTV2.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv2.jpg" valid="true",QTV-2
+channels/QTV2.m3u
+#EXTINF:-1 group-title="Movies" tvg-id="QTV3.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv3.jpg" valid="true",QTV-3
+channels/QTV3.m3u
+#EXTINF:-1 group-title="General" tvg-id="QTV4.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv4.jpg" valid="true",QTV-4
+channels/QTV4.m3u
+#EXTINF:-1 group-title="General" tvg-id="QTV5.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv5.jpg" valid="true",QTV-5
+channels/QTV5.m3u
+#EXTINF:-1 group-title="Kids;Lifestyle" tvg-id="QTV6.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv6.jpg" valid="true",QTV-6
+channels/QTV6.m3u
+#EXTINF:-1 group-title="General" tvg-id="SipingTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/sptv1.jpg" valid="true",Siping TV
+channels/SipingTV.m3u
+#EXTINF:-1 group-title="News" tvg-id="TonghuaTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/thtv1.jpg" valid="true",Tonghua TV
+channels/TonghuaTV.m3u
+#EXTINF:-1 group-title="General" tvg-id="TVBRICSChinese.cn@SD" tvg-logo="https://i.imgur.com/896132Z.png" valid="true",TV BRICS Chinese (1080p)
+channels/TVBRICSChinese.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="VoATVChina.cn@SD" tvg-logo="https://i.imgur.com/XCTZkoq.png" valid="true",VOA美国之音
+channels/VoATVChina.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="XinjiangTV1.cn@SD" tvg-logo="https://i.imgur.com/VLaQYn4.png" valid="true",Xinjiang TV 1
+channels/XinjiangTV1.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="XizangTVTibetan.cn@SD" tvg-logo="https://i.imgur.com/NtvfnVV.png" valid="true",Xizang TV Tibetan (720p) [Not 24/7]
+channels/XizangTVTibetan.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="ZhejiangInternationalChannel.cn@SD" tvg-logo="https://i.imgur.com/XOL1Hph.png" valid="true",Zhejiang TV International
+channels/ZhejiangInternationalChannel.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="ZhejiangSatelliteTV.cn@SD" tvg-logo="https://i.postimg.cc/mrtBcmTx/zhejiangsatellitetv.png" valid="true",Zhejiang Satellite TV
+channels/ZhejiangSatelliteTV.m3u

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="TegarTVJogja.id@SD" tvg-logo="https://i.imgur.com/XamnylQ.png" valid="false",Tegar TV Jogja (720p)
+http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8

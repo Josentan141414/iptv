@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",MO Channel
+https://cloudvideo.servers10.com:8081/8070/index.m3u8

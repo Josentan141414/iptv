@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="News" tvg-id="WeihaiComprehensiveNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/weihaitv1.jpg" valid="false",Weihai Comprehensive News Channel
+http://l1.weihai.tv:8081/hls/969O76hb22.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Movies" tvg-id="CineMo.ph@SD" tvg-logo="https://i.imgur.com/rGAOD3f.png" valid="true",CineMo (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd

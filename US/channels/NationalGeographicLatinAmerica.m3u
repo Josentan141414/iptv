@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Documentary" tvg-id="NationalGeographicLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" valid="false",National Geographic Latin America South (1080p)
+http://38.183.182.166:8000/play/a0vd/index.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Music" tvg-id="PTCDholTV.in@SD" tvg-logo="https://i.ibb.co/C0y7yFJ/Ptc-Dhol-tv.jpg" valid="false",PTC Dhol (720p)
+https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Movies" tvg-id="MaahTV.my@SD" tvg-logo="https://i.postimg.cc/rshG38zb/maahtv.png" valid="true",Maah TV (720p)
+https://hls.maahtv.live/hls/stream.m3u8

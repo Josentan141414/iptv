@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="News" http-referrer="https://youtv.live/" tvg-id="BNChannel.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BN_Channel.png/512px-BN_Channel.png" valid="true",BN Channel (720p)
+https://flv.intechmedia.net/live/ch112.m3u8

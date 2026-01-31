@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="General" tvg-id="LamDongTV.vn@SD" tvg-logo="https://i.imgur.com/lSMoGlv.png" valid="true",Lam Dong TV (720p)
+http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8

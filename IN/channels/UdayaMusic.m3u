@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Music" tvg-id="UdayaMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_MUSIC/images/LOGO_HD/image.png" valid="false",Udaya Music (576p)
+http://103.167.255.18:8085/play/a0on/index.m3u8

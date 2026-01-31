@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment" tvg-id="8TV.my@SD" tvg-logo="https://i.imgur.com/Jkx9W88.png" valid="true",8TV
+channels/8TV.m3u
+#EXTINF:-1 group-title="Undefined" http-referrer="https://rtm-player.glueapi.io/" tvg-id="BeritaRTM.my@SD" tvg-logo="https://i.imgur.com/1Xzxsgl.png" valid="true",Berita RTM [Geo-blocked]
+channels/BeritaRTM.m3u
+#EXTINF:-1 group-title="Movies" tvg-id="MaahTV.my@SD" tvg-logo="https://i.postimg.cc/rshG38zb/maahtv.png" valid="true",Maah TV (720p)
+channels/MaahTV.m3u
+#EXTINF:-1 group-title="General" http-referrer="https://rtm-player.glueapi.io/" tvg-id="Okey.my@SD" tvg-logo="https://i.imgur.com/V2jREQ5.png" valid="true",Okey [Geo-blocked]
+channels/Okey.m3u
+#EXTINF:-1 group-title="Sports" tvg-id="PROSportInternational.my@SD" tvg-logo="https://i.postimg.cc/7hjCP4mf/PROSport-International.png" valid="true",PRO Sport International
+channels/PROSportInternational.m3u
+#EXTINF:-1 group-title="News" tvg-id="RTMASEAN.my@SD" tvg-logo="https://i.imgur.com/skAiUxg.png" valid="true",RTM ASEAN
+channels/RTMASEAN.m3u
+#EXTINF:-1 group-title="Legislative" http-referrer="https://rtm-player.glueapi.io/" tvg-id="RTMParlimenDewanNegara.my@SD" tvg-logo="https://i.postimg.cc/mgrVsTMY/header.png" valid="true",RTM Parlimen (Dewan Negara) [Geo-blocked]
+channels/RTMParlimenDewanNegara.m3u
+#EXTINF:-1 group-title="Legislative" http-referrer="https://rtm-player.glueapi.io/" tvg-id="RTMParlimenDewanRakyat.my@SD" tvg-logo="https://i.postimg.cc/mgrVsTMY/header.png" valid="true",RTM Parlimen (Dewan Rakyat) [Geo-blocked]
+channels/RTMParlimenDewanRakyat.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="SukanRTM.my@SD" tvg-logo="https://i.imgur.com/1pYYSu2.png" valid="true",Sukan RTM [Geo-blocked]
+channels/SukanRTM.m3u
+#EXTINF:-1 group-title="Undefined" http-referrer="https://rtm-player.glueapi.io/" tvg-id="TV6.my@SD" tvg-logo="https://i.imgur.com/bK8UH9D.png" valid="true",TV6 [Geo-blocked]
+channels/TV6.m3u

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment" tvg-id="IndTVUSA.us@SD" tvg-logo="https://i.imgur.com/DibiJ1l.png" valid="false",Ind TV USA (720p)
+https://indtv-pull.secure.footprint.net/indtv/stream.m3u8

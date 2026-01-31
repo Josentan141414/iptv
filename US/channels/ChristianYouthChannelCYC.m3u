@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Kids;Religious" tvg-id="ChristianYouthChannelCYC.us@SD" tvg-logo="https://i.imgur.com/61eV77C.png" valid="true",Christian Youth Channel (CYC) (1080p)
+http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8

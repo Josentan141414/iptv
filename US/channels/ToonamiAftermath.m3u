@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Animation" tvg-id="ToonamiAftermath.us@East" tvg-logo="https://i.imgur.com/aSjhZK7.png" valid="true",Toonami Aftermath East (480p)
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8

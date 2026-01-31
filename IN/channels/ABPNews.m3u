@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="News" http-referrer="https://cdn.abplive.com" tvg-id="ABPNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_News_India.png" valid="true",ABP News (1080p)
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8

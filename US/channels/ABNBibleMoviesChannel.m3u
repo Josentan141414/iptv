@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Movies;Religious" tvg-id="ABNBibleMoviesChannel.us@SD" tvg-logo="https://i.imgur.com/NCqZdaL.png" valid="true",ABN Bible Movies (720p)
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8

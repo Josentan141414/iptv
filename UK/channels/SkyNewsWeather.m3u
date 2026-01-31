@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Weather" tvg-id="SkyNewsWeather.uk@SD" tvg-logo="https://i.postimg.cc/5tj8kWSX/skynewsweather.png" valid="true",Sky News Weather (720p)
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8

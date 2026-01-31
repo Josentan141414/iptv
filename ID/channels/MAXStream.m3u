@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="General" tvg-id="MAXStream.id@SD" tvg-logo="https://i.postimg.cc/QxbFGWcM/maxstream.png" valid="true",MAX Stream (720p)
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="General" tvg-id="ABN.kr@SD" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" valid="true",ABN TV (720p)
+https://vod2.abn.co.kr/IPHONE/abn.m3u8

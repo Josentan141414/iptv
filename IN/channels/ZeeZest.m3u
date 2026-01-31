@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Lifestyle" tvg-id="ZeeZest.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST/images/LOGO_HD/LOGO_HD_image.png" valid="false",Zee Zest HD (1080p)
+http://116.90.120.152:8000/play/a0hu/index.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="false",景县电视一套 (360p) [Not 24/7]
+http://hbjx.chinashadt.com:1935/live/stream:jx1.stream_360p/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Documentary" tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png" valid="false",National Geographic Wild HD (1080p)
+http://103.167.255.18:8085/play/a0lt/index.m3u8

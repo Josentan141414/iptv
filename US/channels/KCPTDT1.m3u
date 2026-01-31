@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Education" tvg-id="KCPTDT1.us@SD" tvg-logo="https://image.pbs.org/bento3-prod/kcpt/2020-kcpt-brand/3cc5c4bdd6_kansascitypbs_primary_blue.png?resiz" valid="true",KCPT-DT1 (720p)
+https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8

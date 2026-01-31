@@ -1,0 +1,171 @@
+#EXTM3U
+#EXTINF:-1 group-title="News" tvg-id="AfghanistanInternational.uk@SD" tvg-logo="https://i.imgur.com/r8MmFRX.png" valid="true",Afghanistan International (720p)
+channels/AfghanistanInternational.m3u
+#EXTINF:-1 group-title="Music" tvg-id="AfrobeatTVEntertainment.uk@SD" tvg-logo="https://i.imgur.com/232ndRK.png" valid="true",Afrobeats (1080p)
+channels/AfrobeatTVEntertainment.m3u
+#EXTINF:-1 group-title="Religious" tvg-id="AkaalChannel.uk@SD" tvg-logo="https://i.imgur.com/K81vNbk.png" valid="true",Akaal Channel (396p) [Geo-blocked]
+channels/AkaalChannel.m3u
+#EXTINF:-1 group-title="General" tvg-id="AlbUKTV.uk@SD" tvg-logo="https://i.imgur.com/TMg4Kxi.png" valid="true",AlbUK TV (1080p) [Not 24/7]
+channels/AlbUKTV.m3u
+#EXTINF:-1 group-title="Education" tvg-id="AlHiwarTV.uk@SD" tvg-logo="https://i.imgur.com/UjOxwdd.png" valid="true",Alhiwar TV (1080p) [Not 24/7]
+channels/AlHiwarTV.m3u
+#EXTINF:-1 group-title="General" tvg-id="AnandTV.uk@SD" tvg-logo="https://i.imgur.com/5VOPFzs.png" valid="true",Anand TV (720p) [Not 24/7]
+channels/AnandTV.m3u
+#EXTINF:-1 group-title="News" tvg-id="BBCArabic.uk@SD" tvg-logo="https://i.imgur.com/ScyTG6P.png" valid="true",BBC Arabic (720p)
+channels/BBCArabic.m3u
+#EXTINF:-1 group-title="Series" tvg-id="BBCDrama.uk@Spain" tvg-logo="https://i.postimg.cc/dtGKJ8HB/bbcdrama.png" valid="true",BBC Drama (720p)
+channels/BBCDrama.m3u
+#EXTINF:-1 group-title="Culture;Documentary" tvg-id="BBCFour.uk@UKHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" valid="true",BBC Four UK HD
+channels/BBCFour.m3u
+#EXTINF:-1 group-title="Animation;General;Kids" tvg-id="BBCFourCBeebies.uk@HD" tvg-logo="https://i.imgur.com/aH0PCPy.png" valid="true",BBC Four/CBeebies (1080p)
+channels/BBCFourCBeebies.m3u
+#EXTINF:-1 group-title="News" tvg-id="BBCNews.uk@Europe" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" valid="true",BBC News Europe
+channels/BBCNews.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="BBCNewsPashto.uk@HD" tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/pashto/images/metadata/poster-1024x576.png" valid="true",BBC News Pashto (720p)
+channels/BBCNewsPashto.m3u
+#EXTINF:-1 group-title="News" tvg-id="BBCPersian.uk@SD" tvg-logo="https://i.imgur.com/4uTMnPb.png" valid="true",BBC Persian (720p)
+channels/BBCPersian.m3u
+#EXTINF:-1 group-title="General" tvg-id="BBCThree.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png" valid="true",BBC Three HD (720p)
+channels/BBCThree.m3u
+#EXTINF:-1 group-title="Animation;Family;Kids" tvg-id="BBCThreeCBBC.uk@HD" tvg-logo="https://i.imgur.com/CGXC5fp.png" valid="true",BBC Three/CBBC (1080p)
+channels/BBCThreeCBBC.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="BritAsiaTV.uk@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Brit_Asia.png" valid="true",Brit Asia TV (1080p)
+channels/BritAsiaTV.m3u
+#EXTINF:-1 group-title="General" tvg-id="Canaf54TV.uk@SD" tvg-logo="https://i.imgur.com/viB0FS2.png" valid="true",Canaf54 TV
+channels/Canaf54TV.m3u
+#EXTINF:-1 group-title="Kids" tvg-id="CBeebiesAsia.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png" valid="true",CBeebies Asia (720p)
+channels/CBeebiesAsia.m3u
+#EXTINF:-1 group-title="News" tvg-id="CGTNEurope.uk@SD" tvg-logo="https://i.imgur.com/oz0FQsE.png" valid="true",CGTN Europe
+channels/CGTNEurope.m3u
+#EXTINF:-1 group-title="General" tvg-id="Channel4.uk@UKHD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png" valid="true",Channel 4 UK HD (1080p)
+channels/Channel4.m3u
+#EXTINF:-1 group-title="General" tvg-id="Channel5.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png" valid="true",Channel 5 HD (1080p)
+channels/Channel5.m3u
+#EXTINF:-1 group-title="Business" tvg-id="CNBCEurope.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/512px-CNBC_2025.svg.png" valid="true",CNBC Europe HD (1080p)
+channels/CNBCEurope.m3u
+#EXTINF:-1 group-title="Sports" tvg-id="DAZNCombat.uk@Poland" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" valid="true",DAZN Combat
+channels/DAZNCombat.m3u
+#EXTINF:-1 group-title="Movies" tvg-id="DiscoverFilm.uk@SD" tvg-logo="https://i.imgur.com/oMnpsQ5.png" valid="true",DiscoverFilm
+channels/DiscoverFilm.m3u
+#EXTINF:-1 group-title="Education" tvg-id="EnglishClubTV.uk@SD" tvg-logo="https://i.postimg.cc/cCYVhnrT/englishclubtv.png" valid="true",English Club TV
+channels/EnglishClubTV.m3u
+#EXTINF:-1 group-title="Entertainment" tvg-id="ENTChannel.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entch.png" valid="true",ENT Channel (720p)
+channels/ENTChannel.m3u
+#EXTINF:-1 group-title="Entertainment" tvg-id="ENTFamily.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entf.png" valid="true",ENT Family (720p)
+channels/ENTFamily.m3u
+#EXTINF:-1 group-title="Religious" tvg-id="FaithWorldTV.uk@SD" tvg-logo="https://i.imgur.com/RLHRjQ3.png" valid="true",Faith World TV
+channels/FaithWorldTV.m3u
+#EXTINF:-1 group-title="Sports" tvg-id="FIFAPlus.uk@UnitedStates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" valid="true",FIFA+ United States (720p)
+channels/FIFAPlus.m3u
+#EXTINF:-1 group-title="Sports" tvg-id="FIFAPlusWomen.uk@English" tvg-logo="https://i.imgur.com/xy9ZxVO.png" valid="true",FIFA+ Women (720p)
+channels/FIFAPlusWomen.m3u
+#EXTINF:-1 group-title="Movies" tvg-id="Film4.uk@HD" tvg-logo="https://i.imgur.com/MTSgoGI.png" valid="true",Film4 HD (1080p)
+channels/Film4.m3u
+#EXTINF:-1 group-title="Music" tvg-id="FMTV.uk@SD" tvg-logo="https://i.imgur.com/vPxvbVv.png" valid="true",Frecuencia Musical TV [Not 24/7]
+channels/FMTV.m3u
+#EXTINF:-1 group-title="Culture" tvg-id="GarshomTV.uk@SD" tvg-logo="https://i.imgur.com/KnbwUyb.png" valid="true",Garshom TV (360p) [Not 24/7]
+channels/GarshomTV.m3u
+#EXTINF:-1 group-title="Shop" tvg-id="GemsTV.uk@SD" tvg-logo="https://i.imgur.com/WgaJufI.png" valid="true",Gems TV (720p)
+channels/GemsTV.m3u
+#EXTINF:-1 group-title="General" tvg-id="HalaLondon.uk@SD" tvg-logo="https://i.imgur.com/bM4VZDH.png" valid="true",Hala London (1080p)
+channels/HalaLondon.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="HellenicTV.uk@SD" tvg-logo="https://i.imgur.com/NE7ddhC.png" valid="true",Hellenic TV (720p) [Not 24/7]
+channels/HellenicTV.m3u
+#EXTINF:-1 group-title="Lifestyle" tvg-id="HobbyMaker.uk@SD" tvg-logo="https://i.imgur.com/VWHp5Tl.png" valid="true",Hobby Maker (720p)
+channels/HobbyMaker.m3u
+#EXTINF:-1 group-title="Outdoor" tvg-id="HorseCountryTV.uk@SD" tvg-logo="https://i.imgur.com/1x6zYZr.png" valid="true",Horse and Country (720p)
+channels/HorseCountryTV.m3u
+#EXTINF:-1 group-title="News" tvg-id="IraneFardaTV.uk@SD" tvg-logo="https://i.imgur.com/ixgcgZY.png" valid="true",IraneFarda TV (720p)
+channels/IraneFardaTV.m3u
+#EXTINF:-1 group-title="News" tvg-id="IranInternational.uk@SD" tvg-logo="https://i.imgur.com/55RpaF3.png" valid="true",Iran International (720p)
+channels/IranInternational.m3u
+#EXTINF:-1 group-title="Religious" tvg-id="IslamChannelUrdu.uk@SD" tvg-logo="https://i.imgur.com/j1ZBAgg.png" valid="true",Islam Channel Urdu
+channels/IslamChannelUrdu.m3u
+#EXTINF:-1 group-title="General" tvg-id="ITV2.uk@SD" tvg-logo="https://i.imgur.com/2BpUK0W.png" valid="true",ITV2
+channels/ITV2.m3u
+#EXTINF:-1 group-title="Entertainment" tvg-id="ITV3.uk@SD" tvg-logo="https://i.imgur.com/JuyM2z5.png" valid="true",ITV3 (1080p)
+channels/ITV3.m3u
+#EXTINF:-1 group-title="General" tvg-id="ITV4.uk@SD" tvg-logo="https://i.imgur.com/DYI4IA2.png" valid="true",ITV4 (1080p)
+channels/ITV4.m3u
+#EXTINF:-1 group-title="General" tvg-id="KanalJadid.uk@SD" tvg-logo="https://i.postimg.cc/rpyG90hT/kanaljadid.png" valid="true",Kanal Jadid
+channels/KanalJadid.m3u
+#EXTINF:-1 group-title="Religious" tvg-id="KanshiTV.uk@SD" tvg-logo="https://i.imgur.com/w6uXMrK.png" valid="true",Kanshi TV (720p) [Not 24/7]
+channels/KanshiTV.m3u
+#EXTINF:-1 group-title="General" tvg-id="LatestTV.uk@SD" tvg-logo="https://i.postimg.cc/pr9M5dNY/latesttv.png" valid="true",Latest TV (480p)
+channels/LatestTV.m3u
+#EXTINF:-1 group-title="Entertainment" tvg-id="MagnavisionTV.uk@SD" tvg-logo="https://i.imgur.com/mUHixbi.png" valid="true",Magna Vision (1080p)
+channels/MagnavisionTV.m3u
+#EXTINF:-1 group-title="Religious" tvg-id="MiracleTV.uk@SD" tvg-logo="https://i.imgur.com/pTn8Vc3.png" valid="true",Miracle TV
+channels/MiracleTV.m3u
+#EXTINF:-1 group-title="Kids" tvg-id="MoonbugKids.uk@SD" tvg-logo="https://i.imgur.com/vZHtxQb.png" valid="true",Moonbug Kids (1080p)
+channels/MoonbugKids.m3u
+#EXTINF:-1 group-title="Entertainment" tvg-id="More4.uk@HD" tvg-logo="https://i.imgur.com/cx5YcAU.png" valid="true",More4 HD
+channels/More4.m3u
+#EXTINF:-1 group-title="Comedy;Kids" tvg-id="MrBeanLiveAction.uk@SD" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" valid="true",Mr Bean Live Action (1080p)
+channels/MrBeanLiveAction.m3u
+#EXTINF:-1 group-title="Religious" tvg-id="MTA1World.uk@SD" tvg-logo="https://i.postimg.cc/ZYQhv8Cp/mta1world.png" valid="true",MTA1 World (720p)
+channels/MTA1World.m3u
+#EXTINF:-1 group-title="Religious" tvg-id="MTA2Europe.uk@SD" tvg-logo="https://i.imgur.com/aVts0sz.png" valid="true",MTA2 Europe (720p)
+channels/MTA2Europe.m3u
+#EXTINF:-1 group-title="Religious" tvg-id="MTA3AlArabia.uk@SD" tvg-logo="https://i.imgur.com/m3PEldJ.png" valid="true",MTA3 Al-Arabia (1080p)
+channels/MTA3AlArabia.m3u
+#EXTINF:-1 group-title="Religious" tvg-id="MTA4Africa.uk@SD" tvg-logo="https://i.imgur.com/lmVeQQX.png" valid="true",MTA4 Africa (1080p)
+channels/MTA4Africa.m3u
+#EXTINF:-1 group-title="Religious" tvg-id="MTA5Africa.uk@SD" tvg-logo="https://i.imgur.com/9Cobb2i.png" valid="true",MTA5 Africa (1080p)
+channels/MTA5Africa.m3u
+#EXTINF:-1 group-title="Religious" tvg-id="MTA6Asia.uk@SD" tvg-logo="https://i.imgur.com/nhCNPJI.png" valid="true",MTA6 Asia (1080p)
+channels/MTA6Asia.m3u
+#EXTINF:-1 group-title="Religious" tvg-id="MTA7Asia.uk@SD" tvg-logo="https://i.imgur.com/3Nl8Tpu.png" valid="true",MTA7 Asia (1080p)
+channels/MTA7Asia.m3u
+#EXTINF:-1 group-title="Religious" tvg-id="MTA8America.uk@SD" tvg-logo="https://i.imgur.com/CF6X9wB.png" valid="true",MTA8 America (1080p)
+channels/MTA8America.m3u
+#EXTINF:-1 group-title="Religious" tvg-id="NoorTV.uk@SD" tvg-logo="https://i.imgur.com/DlKgIuQ.png" valid="true",Noor TV (720p)
+channels/NoorTV.m3u
+#EXTINF:-1 group-title="Music" tvg-id="Now90s00s.uk@Poland" tvg-logo="" valid="true",NOW 90s00s
+channels/Now90s00s.m3u
+#EXTINF:-1 group-title="Shop" tvg-id="QVC.uk@SD" tvg-logo="https://i.imgur.com/6TWUVrh.png" valid="true",QVC UK (540p)
+channels/QVC.m3u
+#EXTINF:-1 group-title="Shop" tvg-id="QVCBeauty.uk@SD" tvg-logo="https://i.imgur.com/ZBHtqk1.png" valid="true",QVC UK Beauty (540p)
+channels/QVCBeauty.m3u
+#EXTINF:-1 group-title="Shop" tvg-id="QVCExtra.uk@SD" tvg-logo="https://i.imgur.com/TIe5T9Z.png" valid="true",QVC UK Extra (540p)
+channels/QVCExtra.m3u
+#EXTINF:-1 group-title="Shop" tvg-id="QVCStyle.uk@SD" tvg-logo="https://i.imgur.com/6HZlLL3.png" valid="true",QVC UK Style (540p)
+channels/QVCStyle.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="S4C.uk@SD" tvg-logo="https://i.imgur.com/vrcbnBv.png" valid="true",S4C (1080p) [Geo-blocked]
+channels/S4C.m3u
+#EXTINF:-1 group-title="Religious" tvg-id="SafeerTV.uk@SD" tvg-logo="https://image.roku.com/developer_channels/prod/8389e15af8fe49ac7c36d201c24ebf62fbe5b22897c2879ca26ae936e0ed308d.png" valid="true",Safeer TV (1080p)
+channels/SafeerTV.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="SheffieldLiveTV.uk@SD" tvg-logo="https://i.imgur.com/p0QzCFs.png" valid="true",Sheffield Live TV (360p) [Not 24/7]
+channels/SheffieldLiveTV.m3u
+#EXTINF:-1 group-title="Weather" tvg-id="SkyNewsWeather.uk@SD" tvg-logo="https://i.postimg.cc/5tj8kWSX/skynewsweather.png" valid="true",Sky News Weather (720p)
+channels/SkyNewsWeather.m3u
+#EXTINF:-1 group-title="Sports" tvg-id="talkSPORT.uk@SD" tvg-logo="https://i.postimg.cc/G2n8bztd/talksport.png" valid="true",talkSPORT (1080p)
+channels/talkSPORT.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="TBNUK.uk@SD" tvg-logo="https://i.postimg.cc/4yLxH1fK/tbnuk.png" valid="true",TBN UK (1080p)
+channels/TBNUK.m3u
+#EXTINF:-1 group-title="Entertainment" tvg-id="TheGrahamNortonShow.uk@SD" tvg-logo="https://image.tmdb.org/t/p/w500/xZkWYamzlT6nFu9MI2Rr6NkjedX.png" valid="true",The Graham Norton Show (1080p)
+channels/TheGrahamNortonShow.m3u
+#EXTINF:-1 group-title="Shop" tvg-id="TJC.uk@SD" tvg-logo="https://i.imgur.com/fk5rEje.png" valid="true",TJC (1080p)
+channels/TJC.m3u
+#EXTINF:-1 group-title="Auto;Entertainment" tvg-id="TopGear.uk@SD" tvg-logo="https://i.imgur.com/S6Su6QH.png" valid="true",Top Gear
+channels/TopGear.m3u
+#EXTINF:-1 group-title="Music" tvg-id="Totalmusic.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" valid="true",Totalmusic (720p)
+channels/Totalmusic.m3u
+#EXTINF:-1 group-title="Music" tvg-id="Totalmusic2000s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" valid="true",Totalmusic 2000s (720p)
+channels/Totalmusic2000s.m3u
+#EXTINF:-1 group-title="Music" tvg-id="Totalmusic80s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" valid="true",Totalmusic 80s (720p)
+channels/Totalmusic80s.m3u
+#EXTINF:-1 group-title="Music" tvg-id="TotalmusicConcerts.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" valid="true",Totalmusic Concerts (720p)
+channels/TotalmusicConcerts.m3u
+#EXTINF:-1 group-title="Music" tvg-id="TotalmusicDance.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" valid="true",Totalmusic Dance (720p)
+channels/TotalmusicDance.m3u
+#EXTINF:-1 group-title="Music" tvg-id="V2BEATTV.uk@SD" tvg-logo="https://i.imgur.com/PXGqyLn.png" valid="true",V2BEAT (720p) [Not 24/7]
+channels/V2BEATTV.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="VoxAfrica.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Voxafrica-1.png/512px-Voxafrica-1.png" valid="true",VoxAfrica
+channels/VoxAfrica.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="Wonder.uk@SD" tvg-logo="https://i.imgur.com/LquGNbh.png" valid="true",Wonder (720p)
+channels/Wonder.m3u
+#EXTINF:-1 group-title="Kids" tvg-id="YAAAS.uk@HD" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-12/yaas-logo250x144.png" valid="true",YAAAS! (720p) [Geo-blocked]
+channels/YAAAS.m3u
+#EXTINF:-1 group-title="Entertainment" tvg-id="ZeeOne.uk@German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" valid="true",Zee One German (720p)
+channels/ZeeOne.m3u

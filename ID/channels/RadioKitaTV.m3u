@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Religious" http-referrer="https://radiokita.tv/" tvg-id="RadioKitaTV.id@SD" tvg-logo="https://i.imgur.com/Dz3BzBe.png" valid="true",Radio Kita TV (1080p)
+https://streaming.yufid.com/hls/radiokitatv.m3u8

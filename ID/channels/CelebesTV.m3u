@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="General" tvg-id="CelebesTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_Celebes_TV_2020.png" valid="false",Celebes TV [Not 24/7]
+https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8

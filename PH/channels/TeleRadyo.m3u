@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="TeleRadyo.ph@HD" tvg-logo="https://i.imgur.com/fTYOu5k.png" valid="true",TeleRadyo (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd

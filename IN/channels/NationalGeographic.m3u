@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Documentary" tvg-id="NationalGeographic.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NATIONAL_GEOGRAPHIC_CHANNEL/images/LOGO_HD/image.png" valid="false",National Geographic HD (1080p)
+http://103.178.78.151:7505/play/a12o/index.m3u8

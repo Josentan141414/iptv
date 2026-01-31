@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="General" tvg-id="DopaChannel.th@SD" tvg-logo="https://i.imgur.com/Z9vxti4.png" valid="true",Dopa Channel
+http://dopachannel.truegse.com/live/dopatv03.m3u8

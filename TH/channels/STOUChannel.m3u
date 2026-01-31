@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="STOUChannel.th@SD" tvg-logo="https://i.imgur.com/L3T2QZz.png" valid="true",STOU Channel (720p)
+https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="General" tvg-id="MNCTV.id@SD" tvg-logo="https://i.imgur.com/SK8pjQy.png" valid="false",MNCTV (720p)
+http://203.77.246.58:4500/udp/239.1.3.78:5000

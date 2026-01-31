@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="General" tvg-id="CaoBangTV.vn@SD" tvg-logo="https://i.imgur.com/dGonewm.png" valid="true",Cao Bang TV (480p)
+http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8

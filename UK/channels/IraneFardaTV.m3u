@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="News" tvg-id="IraneFardaTV.uk@SD" tvg-logo="https://i.imgur.com/ixgcgZY.png" valid="true",IraneFarda TV (720p)
+https://hls.iranfarda.live/hls/stream.m3u8

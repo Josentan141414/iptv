@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="News" tvg-id="MSNBC.us@SD" tvg-logo="https://i.postimg.cc/KzqhNLQX/msnbc.png" valid="true",MSNBC (720p)
+http://41.205.93.154/MSNBC/index.m3u8

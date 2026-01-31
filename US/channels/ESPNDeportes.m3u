@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Sports" tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" valid="false",ESPN Deportes (360p)
+https://e3.thetvapp.to/hls/espn-deportes/index.m3u8

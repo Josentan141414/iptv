@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Kids" tvg-id="Nicktoons.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" valid="true",NickToons (720p)
+http://143.244.60.30/NICKTOONS/index.m3u8

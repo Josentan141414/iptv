@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="General" tvg-id="HLDEDTV.kr@SD" tvg-logo="https://i.imgur.com/jknoVmp.png" valid="false",SBS TBC (540p) [Geo-blocked] [Not 24/7]
+http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8

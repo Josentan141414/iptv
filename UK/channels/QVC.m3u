@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Shop" tvg-id="QVC.uk@SD" tvg-logo="https://i.imgur.com/6TWUVrh.png" valid="true",QVC UK (540p)
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8

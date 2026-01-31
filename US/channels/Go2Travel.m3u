@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Travel" tvg-id="Go2Travel.us@SD" tvg-logo="https://go2travel.tv/wp-content/uploads/2022/11/go2-logo.png" valid="true",Go2Travel (1080p)
+https://go2thls.wns.live/hls/stream.m3u8

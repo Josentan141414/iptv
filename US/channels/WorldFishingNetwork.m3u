@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Outdoor" tvg-id="WorldFishingNetwork.us@SD" tvg-logo="https://i.postimg.cc/NFb8L66n/worldfishingnetwork.png" valid="false",World Fishing Network (1080p)
+http://212.102.60.231/WORLD_FISHING_NETWORK/index.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Culture" tvg-id="CCTV8.cn@SD" tvg-logo="https://i.imgur.com/GyHaZ8X.png" valid="false",CCTV-8 (2160p)
+http://123.175.209.52:9003/hls/9/index.m3u8

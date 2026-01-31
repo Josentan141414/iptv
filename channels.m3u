@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AT" group-title="" tvg-logo="",AT
+AT/AT.m3u
+#EXTINF:-1 tvg-id="CN" group-title="" tvg-logo="",CN
+CN/CN.m3u
+#EXTINF:-1 tvg-id="EN" group-title="" tvg-logo="",EN
+EN/EN.m3u
+#EXTINF:-1 tvg-id="HK" group-title="" tvg-logo="",HK
+HK/HK.m3u
+#EXTINF:-1 tvg-id="ID" group-title="" tvg-logo="",ID
+ID/ID.m3u
+#EXTINF:-1 tvg-id="IN" group-title="" tvg-logo="",IN
+IN/IN.m3u
+#EXTINF:-1 tvg-id="JP" group-title="" tvg-logo="",JP
+JP/JP.m3u
+#EXTINF:-1 tvg-id="KR" group-title="" tvg-logo="",KR
+KR/KR.m3u
+#EXTINF:-1 tvg-id="MY" group-title="" tvg-logo="",MY
+MY/MY.m3u
+#EXTINF:-1 tvg-id="PH" group-title="" tvg-logo="",PH
+PH/PH.m3u
+#EXTINF:-1 tvg-id="SG" group-title="" tvg-logo="",SG
+SG/SG.m3u
+#EXTINF:-1 tvg-id="TH" group-title="" tvg-logo="",TH
+TH/TH.m3u
+#EXTINF:-1 tvg-id="TW" group-title="" tvg-logo="",TW
+TW/TW.m3u
+#EXTINF:-1 tvg-id="UK" group-title="" tvg-logo="",UK
+UK/UK.m3u
+#EXTINF:-1 tvg-id="US" group-title="" tvg-logo="",US
+US/US.m3u
+#EXTINF:-1 tvg-id="VN" group-title="" tvg-logo="",VN
+VN/VN.m3u
+#EXTINF:-1 tvg-id="ZH" group-title="" tvg-logo="",ZH
+ZH/ZH.m3u

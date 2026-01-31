@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Religious" tvg-id="GoodTV.kr@SD" tvg-logo="https://i.ibb.co/1v913gn/logo-goodtv.png" valid="true",GoodTV (1080p)
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
