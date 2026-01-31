@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment" tvg-id="FXLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" valid="true",FX Latin America (1080p)
+http://38.199.6.1:17001/play/a04u/index.m3u8

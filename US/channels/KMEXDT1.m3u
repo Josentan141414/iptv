@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="General" tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" valid="false",KMEX-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8

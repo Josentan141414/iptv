@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Culture" tvg-id="IndigenousTV.tw@SD" tvg-logo="https://i.imgur.com/vmk4F9u.png" valid="false",Indigenous TV (720p)
+http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8

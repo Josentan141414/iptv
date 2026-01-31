@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Kids" tvg-id="BiznetKids.id@SD" tvg-logo="https://i.imgur.com/J5QNqJ0.png" valid="true",Biznet Kids (1080p)
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8

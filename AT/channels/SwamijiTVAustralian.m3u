@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Outdoor" tvg-id="SwamijiTVAustralian.at@SD" tvg-logo="https://i.imgur.com/nrLcuzs.png" valid="true",Swamiji TV Australian (1080p) [Not 24/7]
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8

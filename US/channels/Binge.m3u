@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="General" tvg-id="Binge.us@SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/binge-us.png" valid="true",Binge
+https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8

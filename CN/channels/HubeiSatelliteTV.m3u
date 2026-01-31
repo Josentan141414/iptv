@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="HubeiSatelliteTV.cn@SD" tvg-logo="https://i.imgur.com/CTRa9BJ.png" valid="false",湖北卫视 (1080p)
+http://118.81.195.79:9003/hls/32/index.m3u8

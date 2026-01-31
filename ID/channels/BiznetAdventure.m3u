@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="BiznetAdventure.id@SD" tvg-logo="https://i.imgur.com/ZREy4zM.png" valid="true",Biznet Adventure (1080p)
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8

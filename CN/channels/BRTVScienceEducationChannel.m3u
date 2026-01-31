@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Education;Science" tvg-id="BRTVScienceEducationChannel.cn@SD" tvg-logo="https://i.imgur.com/q0qvOUe.png" valid="false",BRTV Science & Education Channel
+http://49.113.179.174:4022/udp/238.125.3.121:5140

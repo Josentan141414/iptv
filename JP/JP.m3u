@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="Religious" http-referrer="http://japan.cgntv.net/HD_player_jp.html" tvg-id="CGNTVJapan.jp@SD" tvg-logo="https://i.imgur.com/5LNZeVq.png" valid="true",CGNTV Japan (1080p)
+channels/CGNTVJapan.m3u
+#EXTINF:-1 group-title="Education" tvg-id="JOABDTV.jp@SD" tvg-logo="https://i.imgur.com/WxtftlO.png" valid="true",JOAB-DTV
+channels/JOABDTV.m3u
+#EXTINF:-1 group-title="General" tvg-id="JORXDTV.jp@SD" tvg-logo="https://i.imgur.com/dUn2GRn.png" valid="true",JORX-DTV
+channels/JORXDTV.m3u
+#EXTINF:-1 group-title="General" tvg-id="NHKBS.jp@SD" tvg-logo="https://i.imgur.com/t0uZcSR.png" valid="true",NHK BS
+channels/NHKBS.m3u
+#EXTINF:-1 group-title="Weather" tvg-id="NHKKishouSaigai.jp@SD" tvg-logo="https://i.imgur.com/oWKCBIz.png" valid="true",NHK Kishou Saigai (360p) [Not 24/7]
+channels/NHKKishouSaigai.m3u
+#EXTINF:-1 group-title="Shop" tvg-id="QVC.jp@SD" tvg-logo="https://i.imgur.com/6TWUVrh.png" valid="true",QVC Japan (720p)
+channels/QVC.m3u
+#EXTINF:-1 group-title="Shop" tvg-id="ShopChannel.jp@SD" tvg-logo="https://i.postimg.cc/wMqPSBfX/shopchannel.png" valid="true",Shop Channel (1080p) [Not 24/7]
+channels/ShopChannel.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="WOWOWLive.jp@SD" tvg-logo="https://i.imgur.com/jPAYT5F.png" valid="true",WOWOW Live
+channels/WOWOWLive.m3u

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="News" tvg-id="HebiNewsChannel.cn@SD" tvg-logo="https://i.imgur.com/Osw5yRW.png" valid="true",鹤壁新闻综合 (480p) [Not 24/7]
+http://pili-live-hls.hebitv.com/hebi/hebi.m3u8

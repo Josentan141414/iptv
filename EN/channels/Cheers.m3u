@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",Cheers
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e7f224676bf00076a4d8d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc835743-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fdd20197-2ce0-4cb8-b35e-ee6f316a3ff8

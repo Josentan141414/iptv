@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Kids" tvg-id="CBBC.uk@SD" tvg-logo="https://i.imgur.com/tk8G4CU.png" valid="false",CBBC HD (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_mse_v0_hevc.mpd

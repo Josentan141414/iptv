@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Shop" tvg-id="TJC.uk@SD" tvg-logo="https://i.imgur.com/fk5rEje.png" valid="true",TJC (1080p)
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8

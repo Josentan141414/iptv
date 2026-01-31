@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="MTC.us@SD" tvg-logo="https://i.postimg.cc/yYSCmDZ5/mtc.png" valid="true",MTC TV
+https://mtchls.wns.live/hls/stream.m3u8

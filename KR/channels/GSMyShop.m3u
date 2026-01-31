@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Shop" tvg-id="GSMyShop.kr@SD" tvg-logo="https://i.imgur.com/ETPQwui.png" valid="true",GS My Shop (1080p)
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8

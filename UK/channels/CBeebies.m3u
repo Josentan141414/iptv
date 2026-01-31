@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Kids" tvg-id="CBeebies.uk@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png" valid="false",CBeebies
+https://x.canlitvapp.com/u-cbeebies/index.m3u8

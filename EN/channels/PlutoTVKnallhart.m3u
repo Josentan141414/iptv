@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",Pluto TV Knallhart
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65004605110545000842035d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1fada5-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cba5d6e1-43a7-4ec8-9d78-67dbcdf7c324

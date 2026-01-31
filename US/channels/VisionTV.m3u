@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Education" tvg-id="VisionTV.us@SD" tvg-logo="https://i.imgur.com/XnxPIqn.png" valid="true",Orange County Vision TV (Orange County FL) (720p)
+https://otv3.ocfl.net/VisionTV/smil:VisionTV.smil/playlist.m3u8

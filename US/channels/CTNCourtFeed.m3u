@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Legislative" tvg-id="CTNCourtFeed.us@SD" tvg-logo="https://i.imgur.com/pb0TFQt.jpeg" valid="true",CT-N Court Feed (360p) [Not 24/7]
+http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8

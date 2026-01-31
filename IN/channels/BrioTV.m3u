@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment" tvg-id="BrioTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Brio_TV.png" valid="false",Brio TV (576p)
+http://103.140.254.2:3500/live/3381.m3u8

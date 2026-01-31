@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Religious" tvg-id="ATVSat.us@SD" tvg-logo="https://i.imgur.com/pwM5txv.png" valid="true",ATVSat (1080p) [Not 24/7]
+https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8

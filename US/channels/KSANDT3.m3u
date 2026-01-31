@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment" tvg-id="KSANDT3.us@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?" valid="true",KSAN-DT3
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/BOUNCE/index.m3u8

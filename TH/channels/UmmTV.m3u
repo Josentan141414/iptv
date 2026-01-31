@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="UmmTV.th@SD" tvg-logo="https://i.imgur.com/5AV0JpL.png" valid="false",Umm TV
+http://psilive1.sky-cdn.com:1935/psi-62/psi-62.stream/playlist.m3u8

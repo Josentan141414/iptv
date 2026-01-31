@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 group-title="Religious" tvg-id="BeautifulLifeTV.tw@SD" tvg-logo="https://i.imgur.com/hkwcBM9.png" valid="true",Beautiful Life TV
+channels/BeautifulLifeTV.m3u
+#EXTINF:-1 group-title="Religious" tvg-id="CGNTVChinese.tw@SD" tvg-logo="https://i.imgur.com/bPoPAbR.png" valid="true",CGNTV Chinese (1080p)
+channels/CGNTVChinese.m3u
+#EXTINF:-1 group-title="News" tvg-id="CTiNews.tw@SD" tvg-logo="https://i.imgur.com/FZONZEr.png" valid="true",中天新聞台 (1080p)
+channels/CTiNews.m3u
+#EXTINF:-1 group-title="General" tvg-id="DaliTV.tw@SD" tvg-logo="https://i.imgur.com/pFIMLsA.png" valid="true",Dali TV (大立電視台) (720p)
+channels/DaliTV.m3u
+#EXTINF:-1 group-title="Shop" tvg-id="ETMall60.tw@SD" tvg-logo="https://i.imgur.com/nvm6dyH.png" valid="true",東森購物60 (480p)
+channels/ETMall60.m3u
+#EXTINF:-1 group-title="Entertainment" tvg-id="GeniusGoGoGo.tw@SD" tvg-logo="" valid="true",天才衝衝衝 (1080p)
+channels/GeniusGoGoGo.m3u
+#EXTINF:-1 group-title="News" tvg-id="GlobalNews.tw@SD" tvg-logo="https://yt3.googleusercontent.com/N017-8I-vc4i_gbztqHFzM9Bap8EWKmsfPBu0HBWM6O4zGX1HBFn5DdLuWcwQLlPQ7F4ej8Ml" valid="true",Global News (1080p)
+channels/GlobalNews.m3u
+#EXTINF:-1 group-title="Religious" tvg-id="Good2.tw@SD" tvg-logo="https://i.imgur.com/YxFRoft.png" valid="true",GOOD TV CH2 真理台 (720p)
+channels/Good2.m3u
+#EXTINF:-1 group-title="Religious" tvg-id="GoodTV.tw@SD" tvg-logo="https://i.imgur.com/k28Kc3o.png" valid="true",GOOD TV CH1 綜合台 (720p) [Not 24/7]
+channels/GoodTV.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="SupremeMasterTV.tw@SD" tvg-logo="https://i.imgur.com/kFMHayP.png" valid="true",Supreme Master TV (720p)
+channels/SupremeMasterTV.m3u
+#EXTINF:-1 group-title="Entertainment" tvg-id="TVBSAsia.tw@SD" tvg-logo="https://i.imgur.com/4S1rkhm.png" valid="true",TVBS Asia (1080p)
+channels/TVBSAsia.m3u

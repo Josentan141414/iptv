@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="General" tvg-id="ABC.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" valid="true",ABC
+http://41.205.93.154/ABC/index.m3u8

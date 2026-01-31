@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Comedy" tvg-id="FailArmy.us@Spain" tvg-logo="https://i.imgur.com/VIpQJxL.png" valid="false",FailArmy Spain
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abf5fafb5ee0007d4d0ca/master.m3u8?advertisingId=PSID&appVersion=unknown&deviceDNT=TARGETOPT&deviceId=PSID&deviceLat=90&deviceLon=0&deviceMake=unknown&deviceModel=unknown&deviceType=unknown&deviceVersion=unknown&embedPartner=&profileFloor=&profileLimit=&us_privacy=1YNY

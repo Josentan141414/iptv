@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="General" tvg-id="MGSTV.id@SD" tvg-logo="https://i.imgur.com/MYU7dsZ.png" valid="false",MGS TV (720p) [Not 24/7]
+https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="General;News" tvg-id="DongNaiTV1.vn@SD" tvg-logo="https://i.imgur.com/oQyioVa.png" valid="true",Đồng Nai 1 (360p) [Not 24/7]
+http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8

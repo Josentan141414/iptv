@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Shop" tvg-id="ShopChannel.jp@SD" tvg-logo="https://i.postimg.cc/wMqPSBfX/shopchannel.png" valid="true",Shop Channel (1080p) [Not 24/7]
+https://stream3.shopch.jp/HLS/master.m3u8

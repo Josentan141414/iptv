@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="General" http-referrer="http://live.rbtvjogja.tv/" tvg-id="RBTVJogja.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/31/RBTV_Jogjakarta.png" valid="true",RBTV Jogja (1080p)
+http://live.rbtvjogja.tv/hls/0/stream.m3u8

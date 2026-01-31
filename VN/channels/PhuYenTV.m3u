@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="PhuYenTV.vn@SD" tvg-logo="https://i.imgur.com/fYYS9QS.png" valid="false",Phu Yen TV (360p)
+http://113.161.4.48:8080/phuyen/tv/index.m3u8

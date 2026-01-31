@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="BacKanTV.vn@SD" tvg-logo="" valid="true",Bac Kan TV (406p)
+channels/BacKanTV.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="BacNinhTV.vn@SD" tvg-logo="" valid="true",Bac Ninh TV (720p)
+channels/BacNinhTV.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="CaMauTV.vn@SD" tvg-logo="" valid="true",Cà Mau TV (720p) [Geo-blocked]
+channels/CaMauTV.m3u
+#EXTINF:-1 group-title="General" tvg-id="CaoBangTV.vn@SD" tvg-logo="https://i.imgur.com/dGonewm.png" valid="true",Cao Bang TV (480p)
+channels/CaoBangTV.m3u
+#EXTINF:-1 group-title="General" tvg-id="DienBienTV.vn@SD" tvg-logo="https://i.imgur.com/u308o8q.png" valid="true",Dien Bien TV (406p)
+channels/DienBienTV.m3u
+#EXTINF:-1 group-title="General;News" tvg-id="DongNaiTV1.vn@SD" tvg-logo="https://i.imgur.com/oQyioVa.png" valid="true",Đồng Nai 1 (360p) [Not 24/7]
+channels/DongNaiTV1.m3u
+#EXTINF:-1 group-title="Entertainment;Sports" tvg-id="DongNaiTV2.vn@SD" tvg-logo="https://i.imgur.com/tNKPSkO.png" valid="true",Đồng Nai 2 (576p) [Not 24/7]
+channels/DongNaiTV2.m3u
+#EXTINF:-1 group-title="General" tvg-id="HaGiangTV.vn@SD" tvg-logo="https://i.imgur.com/zXqjjUf.png" valid="true",Ha Giang TV (406p)
+channels/HaGiangTV.m3u
+#EXTINF:-1 group-title="General" tvg-id="HanoiTV1.vn@SD" tvg-logo="https://i.imgur.com/Je3K25E.png" valid="true",HanoiTV1 (1080p) [Geo-blocked]
+channels/HanoiTV1.m3u
+#EXTINF:-1 group-title="General" tvg-id="HanoiTV2.vn@SD" tvg-logo="https://i.imgur.com/szivqh2.png" valid="true",HanoiTV2 (2160p) [Geo-blocked]
+channels/HanoiTV2.m3u
+#EXTINF:-1 group-title="General" tvg-id="HaTinhTV.vn@SD" tvg-logo="https://i.imgur.com/4yIgKKx.png" valid="true",Ha Tinh TV (720p)
+channels/HaTinhTV.m3u
+#EXTINF:-1 group-title="General" tvg-id="LamDongTV.vn@SD" tvg-logo="https://i.imgur.com/lSMoGlv.png" valid="true",Lam Dong TV (720p)
+channels/LamDongTV.m3u
+#EXTINF:-1 group-title="Shop" tvg-id="LaoSVTV.vn@SD" tvg-logo="https://i.imgur.com/ZIXtazI.png" valid="true",Lao SV TV (480p)
+channels/LaoSVTV.m3u
+#EXTINF:-1 group-title="General" tvg-id="NgheAnTV.vn@SD" tvg-logo="https://i.imgur.com/d9YEEwC.png" valid="true",Nghe An TV
+channels/NgheAnTV.m3u
+#EXTINF:-1 group-title="Entertainment" tvg-id="ONVieDrama.vn@SD" tvg-logo="https://i.postimg.cc/3J83gWVQ/ON-Vie-Dramas.png" valid="true",ON Vie Drama
+channels/ONVieDrama.m3u
+#EXTINF:-1 group-title="Shop" tvg-id="TeaTV.vn@SD" tvg-logo="https://i.imgur.com/WorbnyD.jpg" valid="true",Tea TV (720p)
+channels/TeaTV.m3u
+#EXTINF:-1 group-title="General" tvg-id="ThaiNguyenTV.vn@SD" tvg-logo="https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png" valid="true",Thai Nguyen TV (1080p)
+channels/ThaiNguyenTV.m3u
+#EXTINF:-1 group-title="Shop" tvg-id="UniquelyThai.vn@SD" tvg-logo="https://i.imgur.com/cTSDB8O.png" valid="true",Uniquely Thai (720p)
+channels/UniquelyThai.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="VTV5TayNamBo.vn@HD" tvg-logo="https://i.imgur.com/xiuHjEQ.png" valid="true",VTV5 Tay Nam Bo HD
+channels/VTV5TayNamBo.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="VTV5TayNguyen.vn@HD" tvg-logo="https://i.imgur.com/Hlcnqqt.png" valid="true",VTV5 Tay Nguyen HD
+channels/VTV5TayNguyen.m3u

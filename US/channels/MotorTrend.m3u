@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Auto" tvg-id="MotorTrend.us@SD" tvg-logo="https://i.imgur.com/hKDccCL.png" valid="true",Motor Trend
+http://104.255.88.155/motortrend/index.m3u8

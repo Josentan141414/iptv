@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="TVKU.id@SD" tvg-logo="https://i.imgur.com/BAklJGy.png" valid="true",TVKU (720p)
+https://tvku.tv/hlsstream/hls/live.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment" tvg-id="KMBCDT2.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png" valid="true",KMBC-DT2 (720p)
+https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" http-referrer="https://rtm-player.glueapi.io/" tvg-id="TV6.my@SD" tvg-logo="https://i.imgur.com/bK8UH9D.png" valid="true",TV6 [Geo-blocked]
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6

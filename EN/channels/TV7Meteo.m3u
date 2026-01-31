@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="false",TV7 Meteo (404p)
+https://www.gruppotv7.com:8090/hls/meteo.m3u8

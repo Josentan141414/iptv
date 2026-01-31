@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="DOXYaqu.cn@SD" tvg-logo="https://i.imgur.com/XTK002H.png" valid="false",DOX Yaqu
+http://180.213.174.225:9901/tsfile/live/1033_1.m3u8?authid=0&key=txiptv&playlive=1

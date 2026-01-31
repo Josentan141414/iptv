@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Shop" tvg-id="HyundaiHomeShopping.kr@SD" tvg-logo="https://i.imgur.com/NJpECmq.png" valid="true",Hyundai Home Shopping (720p)
+https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8

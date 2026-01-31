@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Religious" tvg-id="KICCTV.uk@SD" tvg-logo="https://i.postimg.cc/t4NwT6ZG/kicctv.png" valid="false",KICCTV (576p)
+https://live.mdc.akamaized.net/hls/livestream/kicctv/playlist.m3u8

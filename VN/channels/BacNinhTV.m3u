@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="BacNinhTV.vn@SD" tvg-logo="" valid="true",Bac Ninh TV (720p)
+https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8

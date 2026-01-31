@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Documentary" tvg-id="CCTV9.cn@SD" tvg-logo="https://i.postimg.cc/Bvjp0G41/cctv9.png" valid="false",CCTV-9 (2160p)
+http://123.175.209.52:9003/hls/10/index.m3u8

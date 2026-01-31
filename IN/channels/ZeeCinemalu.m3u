@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Movies" tvg-id="ZeeCinemalu.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMALU/images/LOGO_HD/LOGO_HD_image.png" valid="false",Zee Cinemalu HD (1080p)
+http://103.167.255.18:8085/play/a0ns/index.m3u8

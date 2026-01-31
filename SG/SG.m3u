@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="General" tvg-id="Channel8.sg@SD" tvg-logo="https://i.imgur.com/6YPZc24.png" valid="true",Channel 8
+channels/Channel8.m3u
+#EXTINF:-1 group-title="Entertainment" tvg-id="ChannelU.sg@SD" tvg-logo="https://i.imgur.com/9MzEjoY.png" valid="true",Channel U
+channels/ChannelU.m3u
+#EXTINF:-1 group-title="News" tvg-id="CNA.sg@SD" tvg-logo="https://i.imgur.com/awIDugE.png" valid="true",CNA (1080p) [Geo-blocked]
+channels/CNA.m3u
+#EXTINF:-1 group-title="Business" tvg-id="CNBCAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/512px-CNBC_2025.svg.png" valid="true",CNBC Asia (720p)
+channels/CNBCAsia.m3u
+#EXTINF:-1 group-title="Entertainment" tvg-id="meWATCHLIVE1.sg@SD" tvg-logo="https://i.imgur.com/ppxUDxB.png" valid="true",meWATCH LIVE 1 (1080p)
+channels/meWATCHLIVE1.m3u
+#EXTINF:-1 group-title="Kids" tvg-id="ZooMoo.sg@SD" tvg-logo="https://i.imgur.com/ciTJrnl.png" valid="true",Zoo Moo (Australia) (1080p)
+channels/ZooMoo.m3u

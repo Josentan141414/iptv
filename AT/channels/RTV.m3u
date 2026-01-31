@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="RTV.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png" valid="true",RTV (1080p) [Not 24/7]
+http://iptv.rtv-ooe.at/stream.m3u8

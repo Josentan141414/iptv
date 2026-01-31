@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Series" tvg-id="Dlife.jp@SD" tvg-logo="" valid="false",Dlife (1080p)
+https://43.100.9.67/api/streams/live/cs312/1080p/mpegts

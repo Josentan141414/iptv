@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="SonyMax.uk@SD" tvg-logo="https://i.imgur.com/LBICKI5.png" valid="false",Sony Max (576p)
+http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/SONYMAX/index.m3u8

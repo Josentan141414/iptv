@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Animation;Kids" tvg-id="AnimationShowChannel.cn@SD" tvg-logo="https://i.imgur.com/Ul1pjUN.png" valid="false",Animation Show Channel
+http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1

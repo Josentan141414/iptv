@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment" tvg-id="KMCIDT2.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png" valid="true",KMCI-DT1 (720p)
+https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8

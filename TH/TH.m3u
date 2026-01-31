@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1 group-title="News" tvg-id="13SiamThai.th@SD" tvg-logo="https://i.imgur.com/FvEp1S2.png" valid="true",13 Siam Thai (1080p)
+channels/13SiamThai.m3u
+#EXTINF:-1 group-title="Religious" tvg-id="BoonniyomTV.th@SD" tvg-logo="https://i.imgur.com/KvdFCD5.png" valid="true",Boonniyom TV
+channels/BoonniyomTV.m3u
+#EXTINF:-1 group-title="General" tvg-id="Channel5.th@SD" tvg-logo="https://i.imgur.com/wOIaqg7.png" valid="true",Channel 5 (1080p)
+channels/Channel5.m3u
+#EXTINF:-1 group-title="General" tvg-id="Channel8.th@SD" tvg-logo="https://i.imgur.com/P3c5jAu.png" valid="true",Channel 8 (1080p) [Not 24/7]
+channels/Channel8.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="CoolChannel.th@SD" tvg-logo="https://i.imgur.com/MU4E0A7.png" valid="true",Cool Channel
+channels/CoolChannel.m3u
+#EXTINF:-1 group-title="Education" tvg-id="DLTV1.th@SD" tvg-logo="https://i.imgur.com/nLzdGeX.png" valid="true",DLTV 1 (1080p)
+channels/DLTV1.m3u
+#EXTINF:-1 group-title="Education" tvg-id="DLTV10.th@SD" tvg-logo="https://i.imgur.com/TgN81Zr.png" valid="true",DLTV 10 (1080p)
+channels/DLTV10.m3u
+#EXTINF:-1 group-title="Education" tvg-id="DLTV11.th@SD" tvg-logo="https://i.imgur.com/hFk2b5s.png" valid="true",DLTV 11 (1080p)
+channels/DLTV11.m3u
+#EXTINF:-1 group-title="Education" tvg-id="DLTV12.th@SD" tvg-logo="https://i.imgur.com/ITt6lY7.png" valid="true",DLTV 12 (1080p)
+channels/DLTV12.m3u
+#EXTINF:-1 group-title="Education" tvg-id="DLTV13.th@SD" tvg-logo="https://i.imgur.com/asB5w3v.png" valid="true",DLTV 13 (1080p)
+channels/DLTV13.m3u
+#EXTINF:-1 group-title="Education" tvg-id="DLTV14.th@SD" tvg-logo="https://i.imgur.com/HOjZRNS.png" valid="true",DLTV 14 (1080p)
+channels/DLTV14.m3u
+#EXTINF:-1 group-title="Education" tvg-id="DLTV15.th@SD" tvg-logo="https://i.imgur.com/onJi2b6.png" valid="true",DLTV 15 (1080p)
+channels/DLTV15.m3u
+#EXTINF:-1 group-title="Education" tvg-id="DLTV2.th@SD" tvg-logo="https://i.imgur.com/lDBSTfE.png" valid="true",DLTV 2 (1080p)
+channels/DLTV2.m3u
+#EXTINF:-1 group-title="Education" tvg-id="DLTV3.th@SD" tvg-logo="https://i.imgur.com/wmrxerm.png" valid="true",DLTV 3 (1080p)
+channels/DLTV3.m3u
+#EXTINF:-1 group-title="Education" tvg-id="DLTV4.th@SD" tvg-logo="https://i.imgur.com/WkpoQhU.png" valid="true",DLTV 4 (1080p)
+channels/DLTV4.m3u
+#EXTINF:-1 group-title="Education" tvg-id="DLTV5.th@SD" tvg-logo="https://i.imgur.com/J1E89jX.png" valid="true",DLTV 5 (1080p)
+channels/DLTV5.m3u
+#EXTINF:-1 group-title="Education" tvg-id="DLTV6.th@SD" tvg-logo="https://i.imgur.com/qeIHWC0.png" valid="true",DLTV 6 (1080p)
+channels/DLTV6.m3u
+#EXTINF:-1 group-title="Education" tvg-id="DLTV7.th@SD" tvg-logo="https://i.imgur.com/OjYwMe3.png" valid="true",DLTV 7 (1080p)
+channels/DLTV7.m3u
+#EXTINF:-1 group-title="Education" tvg-id="DLTV8.th@SD" tvg-logo="https://i.imgur.com/xIwn5Ha.png" valid="true",DLTV 8 (1080p)
+channels/DLTV8.m3u
+#EXTINF:-1 group-title="Education" tvg-id="DLTV9.th@SD" tvg-logo="https://i.imgur.com/yPeSAry.png" valid="true",DLTV 9 (1080p)
+channels/DLTV9.m3u
+#EXTINF:-1 group-title="General" tvg-id="DopaChannel.th@SD" tvg-logo="https://i.imgur.com/Z9vxti4.png" valid="true",Dopa Channel
+channels/DopaChannel.m3u
+#EXTINF:-1 group-title="Education" tvg-id="ETV.th@SD" tvg-logo="https://i.imgur.com/HTnQGcs.png" valid="true",ETV (1080p)
+channels/ETV.m3u
+#EXTINF:-1 group-title="General" tvg-id="GMM25.th@SD" tvg-logo="https://i.imgur.com/uARba6N.png" valid="true",GMM 25
+channels/GMM25.m3u
+#EXTINF:-1 group-title="Entertainment" tvg-id="GoodIdeaTV.th@SD" tvg-logo="https://i.imgur.com/ETgVyTy.png" valid="true",Good Idea TV (720p) [Not 24/7]
+channels/GoodIdeaTV.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="LanthungTV.th@SD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lanthung-tv-th.png" valid="true",Lanthung TV
+channels/LanthungTV.m3u
+#EXTINF:-1 group-title="Entertainment" tvg-id="MONO29.th@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" valid="true",MONO 29 (1080p)
+channels/MONO29.m3u
+#EXTINF:-1 group-title="News" tvg-id="News1.th@SD" tvg-logo="" valid="true",ASTV News 1 (720p) [Not 24/7]
+channels/News1.m3u
+#EXTINF:-1 group-title="General" tvg-id="One31.th@SD" tvg-logo="https://i.imgur.com/HXFNbuc.png" valid="true",One 31
+channels/One31.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="PoliceTV.th@SD" tvg-logo="https://i.imgur.com/GhboFGt.png" valid="true",Police TV (1080p)
+channels/PoliceTV.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="RamaChannel.th@SD" tvg-logo="https://i.imgur.com/pnbzE2V.png" valid="true",Rama Channel
+channels/RamaChannel.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="SBBTV.th@SD" tvg-logo="https://i.imgur.com/B1tyK1Z.png" valid="true",SBB TV
+channels/SBBTV.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="SBTTV.th@SD" tvg-logo="https://i.imgur.com/rmNDylW.png" valid="true",SBT TV
+channels/SBTTV.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="STOUChannel.th@SD" tvg-logo="https://i.imgur.com/L3T2QZz.png" valid="true",STOU Channel (720p)
+channels/STOUChannel.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="SuwannabhumiChannel.th@SD" tvg-logo="https://i.imgur.com/6AGKP0A.png" valid="true",Suwannabhumi Channel (720p)
+channels/SuwannabhumiChannel.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="ThaiChaiyo.th@SD" tvg-logo="https://i.imgur.com/uOfb3y1.png" valid="true",Thai Chaiyo (720p)
+channels/ThaiChaiyo.m3u
+#EXTINF:-1 group-title="Legislative" tvg-id="ThaiParliamentTelevision.th@SD" tvg-logo="https://i.imgur.com/Okcnmt6.png" valid="true",Thai Parliament TV (1080p) [Not 24/7]
+channels/ThaiParliamentTelevision.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="ThaiPBS.th@SD" tvg-logo="https://i.imgur.com/CwalZjr.png" valid="true",Thai PBS (1080p) [Not 24/7]
+channels/ThaiPBS.m3u
+#EXTINF:-1 group-title="News" tvg-id="TopNews.th@SD" tvg-logo="https://i.imgur.com/tRFnV9M.png" valid="true",Top News (720p)
+channels/TopNews.m3u
+#EXTINF:-1 group-title="Religious" tvg-id="TVMuslimThailand.th@SD" tvg-logo="https://i.imgur.com/aCFpuzW.png" valid="true",TV Muslim Thailand
+channels/TVMuslimThailand.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="WhiteChannel.th@SD" tvg-logo="https://i.imgur.com/Chx0AV9.png" valid="true",White Channel (1080p)
+channels/WhiteChannel.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="ZabbChannel.th@SD" tvg-logo="https://i.imgur.com/4TMtUjW.png" valid="true",Zabb Channel (720p)
+channels/ZabbChannel.m3u

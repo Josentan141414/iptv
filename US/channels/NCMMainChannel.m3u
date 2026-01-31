@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="General" tvg-id="NCMMainChannel.us@SD" tvg-logo="https://i.imgur.com/3YPvfPn.png" valid="true",NCM Main Channel
+https://reflect-npa.cablecast.tv/live-6/live/live.m3u8

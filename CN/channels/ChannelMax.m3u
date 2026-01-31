@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="ChannelMax.cn@SD" tvg-logo="https://i.imgur.com/MBbRdJR.png" valid="false",Channel Max
+http://180.213.174.225:9901/tsfile/live/1037_1.m3u8?authid=0&key=txiptv&playlive=1

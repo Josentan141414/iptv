@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Education" tvg-id="JOABDTV.jp@SD" tvg-logo="https://i.imgur.com/WxtftlO.png" valid="true",JOAB-DTV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02

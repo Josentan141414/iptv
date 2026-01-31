@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Kids;Lifestyle" tvg-id="QTV6.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv6.jpg" valid="true",QTV-6
+http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8

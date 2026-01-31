@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 group-title="News" tvg-id="AbanteTV.ph@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg" valid="true",Abante TV (1080p)
+channels/AbanteTV.m3u
+#EXTINF:-1 group-title="News" tvg-id="ANC.ph@SD" tvg-logo="https://i.imgur.com/odwRbRk.png" valid="true",ANC (1080p)
+channels/ANC.m3u
+#EXTINF:-1 group-title="Business" tvg-id="BilyonaryoNewsChannel.ph@SD" tvg-logo="https://i.imgur.com/iTH9Z0j.png" valid="true",Bilyonaryo News Channel (1080p) [Geo-blocked]
+channels/BilyonaryoNewsChannel.m3u
+#EXTINF:-1 group-title="Religious" tvg-id="CCTN47.ph@SD" tvg-logo="https://i.imgur.com/IFpAmvW.png" valid="true",CCTN 47 (1080p) [Not 24/7]
+channels/CCTN47.m3u
+#EXTINF:-1 group-title="Movies" tvg-id="CinemaOne.ph@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" valid="true",Cinema One (1080p)
+channels/CinemaOne.m3u
+#EXTINF:-1 group-title="Movies" tvg-id="CineMo.ph@SD" tvg-logo="https://i.imgur.com/rGAOD3f.png" valid="true",CineMo (1080p)
+channels/CineMo.m3u
+#EXTINF:-1 group-title="Religious" tvg-id="HopeChannelPhilippines.ph@SD" tvg-logo="https://i.imgur.com/LB2vmMt.png" valid="true",Hope Channel Philippines (1080p)
+channels/HopeChannelPhilippines.m3u
+#EXTINF:-1 group-title="Entertainment" tvg-id="KapamilyaChannel.ph@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/512px-Kapamilya_Channel_Logo_2020.svg.png" valid="true",Kapamilya Channel (1080p)
+channels/KapamilyaChannel.m3u
+#EXTINF:-1 group-title="General" tvg-id="MindanowNetworkTV.ph@SD" tvg-logo="https://i.imgur.com/xBlYirh.jpeg" valid="true",Mindanow Network TV (1080p)
+channels/MindanowNetworkTV.m3u
+#EXTINF:-1 group-title="Music" tvg-id="Myx.ph@HD" tvg-logo="https://i.postimg.cc/767QC2cM/myx.png" valid="true",MYX (1080p)
+channels/Myx.m3u
+#EXTINF:-1 group-title="Undefined" tvg-id="TeleRadyo.ph@HD" tvg-logo="https://i.imgur.com/fTYOu5k.png" valid="true",TeleRadyo (1080p)
+channels/TeleRadyo.m3u

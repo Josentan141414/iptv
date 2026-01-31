@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Movies" tvg-id="FXM.us@East" tvg-logo="https://i.postimg.cc/j27hBV04/fxm.png" valid="true",FXM East
+https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8

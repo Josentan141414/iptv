@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Weather" tvg-id="Weathernews.jp@SD" tvg-logo="https://i.imgur.com/A8uRSTS.png" valid="false",Weathernews (720p)
+https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8

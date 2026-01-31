@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Business" tvg-id="JobplusTV.kr@SD" tvg-logo="https://i.imgur.com/Y5Zg5SR.png" valid="false",Job Plus TV (한국직업방송) (480p)
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8

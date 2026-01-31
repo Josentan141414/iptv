@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="" tvg-id="CCTV11" tvg-logo="" valid="true",CCTV-11戏曲
+http://23.237.228.134/live3/CCTV11.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Music" tvg-id="Myx.ph@HD" tvg-logo="https://i.postimg.cc/767QC2cM/myx.png" valid="true",MYX (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd

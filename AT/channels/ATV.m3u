@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="General" tvg-id="ATV.at@HD" tvg-logo="https://i.imgur.com/1pA0Tid.png" valid="false",ATV HD (1080p)
+http://212.186.45.34:9981/stream/channelid/692531719?profile=pass

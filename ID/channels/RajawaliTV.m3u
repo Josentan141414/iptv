@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="RajawaliTV.id@SD" tvg-logo="https://i.imgur.com/dlsv1sl.png" valid="true",Rajawali TV
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8

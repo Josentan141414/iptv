@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="General" tvg-id="KhanhHoaTV.vn@SD" tvg-logo="https://i.imgur.com/qLMcGPT.png" valid="false",Khanh Hoa TV (720p)
+http://210.245.20.94/hls/ktv1.m3u8

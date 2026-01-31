@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="General" tvg-id="ThaiNguyenTV.vn@SD" tvg-logo="https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png" valid="true",Thai Nguyen TV (1080p)
+https://streaming.thainguyentv.vn/hls/livestream.m3u8

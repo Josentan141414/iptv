@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="News" tvg-id="MetroTV.id@SD" tvg-logo="https://i.imgur.com/QnU70NI.png" valid="true",Metro TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8

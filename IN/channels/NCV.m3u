@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment" tvg-id="NCV.in@SD" tvg-logo="https://i.imgur.com/HZy6x27.png" valid="false",NCV (720p)
+http://131.153.22.8:1935/NCV/ncvstream/playlist.m3u8

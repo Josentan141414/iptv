@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Documentary" tvg-id="KTOODT3.us@SD" tvg-logo="https://i.imgur.com/ppn5oJy.png" valid="true",KTOO 360TV 3 (FNX)
+https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8

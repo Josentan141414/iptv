@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="false",ASMAR TV
+https://ss5.domint.net:3034/astv_str/asmartv/playlist.m3u8

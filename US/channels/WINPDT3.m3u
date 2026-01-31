@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="WINPDT3.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" valid="true",WINP-DT3
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/IONMYSTERY/index.m3u8

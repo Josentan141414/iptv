@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Movies" tvg-id="ICCplus.us@SD" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iccplus-us.png" valid="true",ICC Plus (1080p)
+https://icchls.wns.live/hls/stream.m3u8

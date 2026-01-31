@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="News" tvg-id="TopNews.th@SD" tvg-logo="https://i.imgur.com/tRFnV9M.png" valid="true",Top News (720p)
+https://live.topnews.co.th/hls/topnews_a_720.m3u8

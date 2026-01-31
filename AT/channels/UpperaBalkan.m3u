@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-id="UpperaBalkan.at@SD" tvg-logo="https://i.imgur.com/eqcmi5G.png" valid="false",Uppera Balkan (720p) [Geo-blocked]
+http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Classic" tvg-id="ZeeClassic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LOGO_HD/LOGO_HD_image.png" valid="false",Zee Classic (576p)
+http://103.178.78.151:7505/play/a16r/index.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="General" tvg-id="KMBCDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/KMBC_9_ABC.svg/512px-KMBC_9_ABC.svg.png" valid="true",KMBC-DT1 (720p)
+https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8

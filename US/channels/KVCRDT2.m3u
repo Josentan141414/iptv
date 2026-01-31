@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Culture" http-referrer="https://fnx.org/" tvg-id="KVCRDT2.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FNX_Web_Logo.png" valid="true",FNX [Geo-blocked]
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
