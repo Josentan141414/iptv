@@ -1,66 +1,264 @@
 #EXTM3U
-#EXTINF:-1 group-title="Music" tvg-id="AntenneKaernten.at@SD" tvg-logo="https://i.imgur.com/nUKFDsb.jpeg" valid="true",Antenne Kaernten (720p)
-https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="AntenneSteiermark.at@SD" tvg-logo="https://i.imgur.com/qnappvd.jpeg" valid="true",Antenne Steiermark (720p)
-https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-id="ATV2.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_ATV2.svg/512px-Logo_ATV2.svg.png" valid="true",ATV2 HD
-https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
-#EXTINF:-1 group-title="Entertainment" tvg-id="BalkanRadioSalzburg.at@SD" tvg-logo="https://i.imgur.com/UDyxgXf.png" valid="true",Balkan Radio Salzburg (480p)
-https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-id="FS1Salzburg.at@SD" tvg-logo="https://i.imgur.com/74gMaPK.png" valid="true",FS1 Salzburg (720p) [Not 24/7]
-http://stream.fs1.tv:8080/hls/webstream.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="FUELTV.at@SD" tvg-logo="https://i.imgur.com/I8mviBy.png" valid="true",FUEL TV (1080p)
-https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="HitradioO3.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/512px-Hitradio_%C3%963.svg.png" valid="true",Hitradio O3
-https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd
-#EXTINF:-1 group-title="Religious" tvg-id="KITTV.at@SD" tvg-logo="https://i.imgur.com/5rDo1Za.png" valid="true",KIT-TV (720p)
-https://everest.pa-hosting.de:3591/live/joseflive.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="Kronehit.at@SD" tvg-logo="https://i.imgur.com/dQJQv1X.png" valid="true",Kronehit (1080p)
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 group-title="Religious" tvg-id="KTV.at@SD" tvg-logo="https://i.imgur.com/RYbR4Sf.png" valid="true",K-TV (720p)
-https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:-1 group-title="General" tvg-id="LandleTV.at@SD" tvg-logo="https://i.imgur.com/omLVQ4r.png" valid="true",Ländle TV (1080p) [Not 24/7]
-https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="N24DokuAustria.at@SD" tvg-logo="https://i.imgur.com/qgoXJu4.png" valid="true",N24 Doku
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f1163-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3c70bac9-b6d8-44d7-bde9-a992a6bfd7ab
-#EXTINF:-1 group-title="General" tvg-id="Okto.at@SD" tvg-logo="https://i.imgur.com/9XfhgbS.png" valid="true",Okto TV (1080p)
-https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-id="ORF1.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/512px-ORF_1_2019.svg.png" valid="true",ORF 1 HD (720p)
-https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
-#EXTINF:-1 group-title="General" tvg-id="ORF2Tirol.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/512px-ORF2_logo_n.svg.png" valid="true",ORF 2 Tirol HD (720p)
-https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
-#EXTINF:-1 group-title="General" tvg-id="ORF2Wien.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/512px-ORF2_logo_n.svg.png" valid="true",ORF 2 Wien (1080p)
-http://79.127.207.193/ORF2/playlist.m3u8
-#EXTINF:-1 group-title="Culture" tvg-id="ORFIII.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/512px-ORF_III_Logo_Monochrom.svg.png" valid="true",ORF III HD (720p)
-https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="ORFKids.at@SD" tvg-logo="https://i.imgur.com/Zxuah2b.png" valid="true",ORF Kids (720p)
-https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
-#EXTINF:-1 group-title="Undefined" tvg-id="R9.at@SD" tvg-logo="https://i.imgur.com/SVJiXxh.png" valid="true",R9 (720p) [Not 24/7]
-https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="RedBullTV.at@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" valid="true",Red Bull TV (1080p)
-https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="RTV.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png" valid="true",RTV (1080p) [Not 24/7]
-http://iptv.rtv-ooe.at/stream.m3u8
-#EXTINF:-1 group-title="Travel" tvg-id="SchladmingDachsteinTV.at@SD" tvg-logo="https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg" valid="true",Schladming-Dachstein TV (720p)
-https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="ServusTV.at@HD" tvg-logo="https://i.imgur.com/6W637Gn.png" valid="true",ServusTV HD
-https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
-#EXTINF:-1 group-title="General" tvg-id="SteiermarkTV.at@SD" tvg-logo="https://i.imgur.com/AJrUPze.png" valid="true",Steiermark TV (1080p)
-https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
-#EXTINF:-1 group-title="General" tvg-id="StimmungsgartenTV.at@SD" tvg-logo="https://i.postimg.cc/FHqh4Rz4/stimmungsgartentv.png" valid="true",Stimmungsgarten TV
-https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8
-#EXTINF:-1 group-title="Outdoor" tvg-id="SwamijiTVAmerican.at@SD" tvg-logo="https://i.imgur.com/nrLcuzs.png" valid="true",Swamiji TV American (1080p) [Not 24/7]
-https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
-#EXTINF:-1 group-title="Outdoor" tvg-id="SwamijiTVAustralian.at@SD" tvg-logo="https://i.imgur.com/nrLcuzs.png" valid="true",Swamiji TV Australian (1080p) [Not 24/7]
-https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
-#EXTINF:-1 group-title="Outdoor" tvg-id="SwamijiTVEuropean.at@SD" tvg-logo="https://i.imgur.com/nrLcuzs.png" valid="true",Swamiji TV European (1080p) [Not 24/7]
-https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="TirolTV.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/TIROL_TV_Logo_2019.png/512px-TIROL_TV_Logo_2019.png" valid="true",Tirol TV (720p) [Not 24/7]
-https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="TV1Oberosterreich.at@SD" tvg-logo="https://i.postimg.cc/Qx34YmYp/tv1oberosterreich.png" valid="true",TV 1 Oberösterreich (1080p)
-https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="W24.at@SD" tvg-logo="https://i.imgur.com/FpVNrxk.png" valid="true",W24 (720p) [Not 24/7]
-https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="AiQiYi" tvg-logo="" valid="true",爱奇艺
+http://php.jdshipin.com/smt.php?id=Qiyi
+#EXTINF:-1 group-title="" tvg-id="AoMenMACAU" tvg-logo="" valid="true",澳门MACAU
+http://php.jdshipin.com/TVOD/iptv.php?id=as
+#EXTINF:-1 group-title="" tvg-id="AoMenTiYu" tvg-logo="" valid="true",澳门体育
+https://cdn6.163189.xyz/163189/amty
+#EXTINF:-1 group-title="" tvg-id="AoMenZongYi" tvg-logo="" valid="true",澳门综艺
+https://cdn6.163189.xyz/163189/amzy
+#EXTINF:-1 group-title="" tvg-id="AoShiAoMen" tvg-logo="" valid="true",澳视澳门
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
+#EXTINF:-1 group-title="" tvg-id="AstroAEC" tvg-logo="" valid="true",Astro AEC
+http://php.jdshipin.com/smt.php?id=AEC
+#EXTINF:-1 group-title="" tvg-id="AstroAOD" tvg-logo="" valid="true",Astro AOD
+http://php.jdshipin.com/TVOD/iptv.php?id=aod
+#EXTINF:-1 group-title="" tvg-id="AstroQJ" tvg-logo="" valid="true",Astro QJ
+http://php.jdshipin.com/smt.php?id=Quanjia
+#EXTINF:-1 group-title="" tvg-id="BaDuKongJian" tvg-logo="" valid="true",八度空间
+https://cdn6.163189.xyz/163189/8tv
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",白山新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/baishan1/sd/live.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",贝爷影厅
+http://epg.112114.xyz/douyu/252802
+#EXTINF:-1 group-title="" tvg-id="CCTV11" tvg-logo="" valid="true",CCTV-11戏曲
+http://23.237.228.134/live3/CCTV11.m3u8
+#EXTINF:-1 group-title="" tvg-id="CCTV15" tvg-logo="" valid="true",CCTV-15音乐
+http://23.237.228.134/live3/CCTV15.m3u8
+#EXTINF:-1 group-title="" tvg-id="CCTV17" tvg-logo="" valid="true",CCTV-17农业农村
+http://23.237.228.134/live3/CCTV17.m3u8
+#EXTINF:-1 group-title="Movie" tvg-id="Cctv-4ZhongWenGuoJiMeiZhou.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" valid="true",CCTV-4中文国际美洲
+https://hc9lby9bzw8zcar.wcetv.com/hls/cctv4.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",长春综合 [Geo-blocked]
+https://stream2.jlntv.cn/jlcc/sd/live.m3u8
+#EXTINF:-1 group-title="" tvg-id="Channel5" tvg-logo="" valid="true",Channel 5
+https://cdn6.163189.xyz/163189/ch5
+#EXTINF:-1 group-title="" tvg-id="Channel8" tvg-logo="" valid="true",Channel 8
+https://cdn6.163189.xyz/163189/ch8
+#EXTINF:-1 group-title="" tvg-id="ChannelU" tvg-logo="" valid="true",Channel U
+https://cdn6.163189.xyz/163189/chu
+#EXTINF:-1 group-title="" tvg-id="ChongWenJingDian" tvg-logo="" valid="true",重温经典
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+#EXTINF:-1 group-title="Movie" tvg-id="DaWanQuWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" valid="true",大湾区卫视
+https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
+#EXTINF:-1 group-title="" tvg-id="FeiCuiTai" tvg-logo="" valid="true",翡翠台
+https://php.jdshipin.com/smt.php?id=Tvbjade
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",福州电视台少儿频道 (FZTV-少儿) (1080p)
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",福州广播电视台都市生活频道 (FZTV-3) (1080p)
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",福州广播电视台新闻综合频道 (FZTV-1) (1080p)
+http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+#EXTINF:-1 group-title="" tvg-id="GanSuWeiShi" tvg-logo="" valid="true",甘肃卫视
+http://23.237.228.134/live8/gansu.m3u8
+#EXTINF:-1 group-title="" tvg-id="GuangDongTiYu" tvg-logo="" valid="true",广东体育
+http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+#EXTINF:-1 group-title="Movie" tvg-id="GuangDongWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" valid="true",广东卫视
+https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
+#EXTINF:-1 group-title="" tvg-id="GuangDongZhuJiang" tvg-logo="" valid="true",广东珠江
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+#EXTINF:-1 group-title="" tvg-id="HaiNanWeiShi" tvg-logo="" valid="true",海南卫视
+http://23.237.228.134/live6/hainan.m3u8
+#EXTINF:-1 group-title="" tvg-id="HaiXiaWeiShi" tvg-logo="" valid="true",海峡卫视
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",河源综合 (540p)
+https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",红牛REDBULL TV (720p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="" tvg-id="HOY77" tvg-logo="" valid="true",HOY 77
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 group-title="" tvg-id="HuaLiFeiCuiTai" tvg-logo="" valid="true",华丽翡翠台
+https://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbjade
+#EXTINF:-1 group-title="" tvg-id="HuaLiTai" tvg-logo="" valid="true",华丽台
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+#EXTINF:-1 group-title="" tvg-id="HuNanAiWan" tvg-logo="" valid="true",湖南爱晚
+https://php.jdshipin.com/iptv.php?id=hngg
+#EXTINF:-1 group-title="" tvg-id="HuNanDianShiJu" tvg-logo="" valid="true",湖南电视剧
+https://php.jdshipin.com/iptv.php?id=hndsj
+#EXTINF:-1 group-title="" tvg-id="HuNanDianYing" tvg-logo="" valid="true",湖南电影
+http://php.jdshipin.com:8880/iptv.php?id=hndy
+#EXTINF:-1 group-title="" tvg-id="HuNanDuShi" tvg-logo="" valid="true",湖南都市
+https://php.jdshipin.com/iptv.php?id=hnds
+#EXTINF:-1 group-title="" tvg-id="HuNanGuoJi" tvg-logo="" valid="true",湖南国际
+http://php.jdshipin.com:8880/iptv.php?id=hngj
+#EXTINF:-1 group-title="" tvg-id="HuNanJingShi" tvg-logo="" valid="true",湖南经视
+http://php.jdshipin.com:8880/iptv.php?id=hnjs
+#EXTINF:-1 group-title="" tvg-id="iPandaXiongMaoPinDao" tvg-logo="" valid="true",iPanda熊猫频道
+https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",江津经济生活 (480p)
+http://222.179.155.21:1935/ch0.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",江津新闻综合 (480p)
+http://222.179.155.21:1935/ch1.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",集安综合 [Geo-blocked]
+https://stream2.jlntv.cn/ja/sd/live.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",吉林市新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/jilin1/sd/live.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",金昌公共頻道 (240p) [Geo-blocked]
+http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",金昌綜合頻道 (720p) [Geo-blocked]
+http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",靖江新闻綜合 (480p) [Not 24/7]
+http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="KanDongFang" tvg-logo="" valid="true",看东方
+https://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+#EXTINF:-1 group-title="" tvg-id="KanDuiFang" tvg-logo="" valid="true",看对方
+https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 group-title="Movie" tvg-id="KeJiaDianShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" valid="true",客家电视
+https://hc9lby9bzw8zcar.wcetv.com/hls/hakkatv.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",辽源新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",立法會直播 (Legislative Council Live) (720p)
+https://live3.tdm.com.mo/tv/ch21.live/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",林正英
+http://epg.112114.xyz/douyu/218859
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",刘德华
+http://epg.112114.xyz/douyu/2516864
+#EXTINF:-1 group-title="" tvg-id="MeiRiJingJiXinWen" tvg-logo="" valid="true",每日经济新闻
+https://swiftplay.hxkjmedia.com/tv/spbW.m3u8
+#EXTINF:-1 group-title="" tvg-id="MeiYaDianYing" tvg-logo="" valid="true",美亚电影
+https://php.jdshipin.com/smt.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",孟州电视台 (1080p) [Not 24/7]
+http://live.dxhmt.cn:9081/tv/10883-1.m3u8
+#EXTINF:-1 group-title="" tvg-id="MingZhuTai" tvg-logo="" valid="true",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",农安新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/naxw/sd/live.m3u8
+#EXTINF:-1 group-title="Movie" tvg-id="NowXinWenTai.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" valid="true",Now新闻台
+https://hls.168.us.kg/u/332/master.m3u8
+#EXTINF:-1 group-title="Movie" tvg-id="NowZhiBoTai.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" valid="true",Now直播台
+https://hls.168.us.kg/u/331/master.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",欧美大片2
+http://epg.112114.xyz/douyu/2793084
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",欧美大片3
+http://epg.112114.xyz/douyu/9249162
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",前郭综合 [Geo-blocked]
+https://stream2.jlntv.cn/qg/sd/live.m3u8
+#EXTINF:-1 group-title="" tvg-id="QingHaiWeiShi" tvg-logo="" valid="true",青海卫视
+http://23.237.228.134/live8/qinghai.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",荣昌综合 (404p) [Not 24/7]
+http://183.64.181.25:40023/rongchang01.m3u8
+#EXTINF:-1 group-title="" tvg-id="RTHK31" tvg-logo="" valid="true",RTHK31
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 group-title="" tvg-id="RTHK32" tvg-logo="" valid="true",RTHK32
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",上虞1新闻综合 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",上虞3新商都 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",上虞經濟文化 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",嵊州综合 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1 group-title="" tvg-id="ShenZhenCaiJingShengHuo" tvg-logo="" valid="true",深圳财经生活
+https://cdn3.163189.xyz/163189/szcjsh
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",四川 Ⅰ 巴中综合台 (1080p) [Not 24/7]
+http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.flv
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",四平新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/sptv/sd/live.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",松原新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/sytv/sd/live.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",宿州科教 (1080p) [Not 24/7]
+http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
+#EXTINF:-1 group-title="Movie" tvg-id="TaiShiXinWen.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" valid="true",台视新闻
+https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
+#EXTINF:-1 group-title="Movie" tvg-id="TaiWanYuanShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" valid="true",台湾原视
+https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8
+#EXTINF:-1 group-title="" tvg-id="TianYingJingDian" tvg-logo="" valid="true",天映经典
+http://cdn10.163189.xyz/163189/ccm
+#EXTINF:-1 group-title="" tvg-id="TianYingPinDao" tvg-logo="" valid="true",天映频道
+http://cdn10.163189.xyz/163189/typd
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",通化新闻 [Geo-blocked]
+https://stream2.jlntv.cn/tonghua1/sd/live.m3u8
+#EXTINF:-1 group-title="" tvg-id="TVBFeiCui" tvg-logo="" valid="true",TVB 翡翠
+https://cdn6.163189.xyz/163189/fct
+#EXTINF:-1 group-title="Movie" tvg-id="TvbFeiCuiTai.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" valid="true",TVB翡翠台
+https://hls.168.us.kg/u/81/master.m3u8
+#EXTINF:-1 group-title="" tvg-id="TVBHuaLiFeiCui" tvg-logo="" valid="true",TVB 华丽翡翠
+https://o11.163189.xyz/stream/live/hlt/
+#EXTINF:-1 group-title="" tvg-id="TVBHuaLiFeiCuiTai" tvg-logo="" valid="true",TVB华丽翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+#EXTINF:-1 group-title="" tvg-id="TVBJ1" tvg-logo="" valid="true",TVB J1
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1 group-title="" tvg-id="TVBJ2" tvg-logo="" valid="true",TVB J2
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 group-title="" tvg-id="TVBMingZhu" tvg-logo="" valid="true",TVB 明珠
+https://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 group-title="" tvg-id="TVBPLUS" tvg-logo="" valid="true",TVB PLUS
+https://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 group-title="" tvg-id="TVBQianXiJingDian" tvg-logo="" valid="true",TVB 千禧经典
+https://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 group-title="" tvg-id="TVBQianXiJingDianTai" tvg-logo="" valid="true",TVB千禧经典台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 group-title="Movie" tvg-id="TvbWuXianXinWenTai.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" valid="true",TVB无线新闻台
+https://hls.168.us.kg/u/83/master.m3u8
+#EXTINF:-1 group-title="" tvg-id="TVBXingHe" tvg-logo="" valid="true",TVB 星河
+https://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 group-title="" tvg-id="TVBXingHeGuoYu" tvg-logo="" valid="true",TVB 星河国语
+http://cdn10.163189.xyz/163189/xinghe
+#EXTINF:-1 group-title="" tvg-id="TVBXinWen" tvg-logo="" valid="true",TVB新闻
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+#EXTINF:-1 group-title="Movie" tvg-id="Viutv.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" valid="true",ViuTV
+https://hls.168.us.kg/u/96/master.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",萬州科教頻道 (576p)
+http://123.146.162.24:8017/Cz7WPb8/800/live.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",萬州綜合頻道 (576p)
+http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",文山综合 (1080p) [Not 24/7]
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",武进生活 (576p) [Not 24/7]
+https://live.wjyanghu.com/live/CH2.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",武进新闻 (576p) [Not 24/7]
+https://live.wjyanghu.com/live/CH1.m3u8
+#EXTINF:-1 group-title="" tvg-id="WuXianXinWen" tvg-logo="" valid="true",无线新闻
+https://php.jdshipin.com/smt.php?id=inews_twn
+#EXTINF:-1 group-title="" tvg-id="XiangGangMingZhuTai" tvg-logo="" valid="true",香港明珠台
+http://rihou.cc:555/tv/[Mt]无线明珠
+#EXTINF:-1 group-title="" tvg-id="XiangGangNowCaiJing" tvg-logo="" valid="true",香港now财经
+http://rihou.cc:555/tv/[Mt]Now财经
+#EXTINF:-1 group-title="" tvg-id="XiangGangNowTiYu" tvg-logo="" valid="true",香港now体育
+http://rihou.cc:555/tv/[Mt]Now体育
+#EXTINF:-1 group-title="" tvg-id="XiangGangNowZhiBo" tvg-logo="" valid="true",香港now直播
+http://rihou.cc:555/tv/[Mt]Now直播
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",蕭山生活頻道 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",萧山新闻综合 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",新昌新聞綜合 (1080p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",新昌休闲影视 (1080p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",兴隆综合
+https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",新郑综合 (1080p) [Not 24/7]
+http://live.dxhmt.cn:9081/tv/10184-1.m3u8
+#EXTINF:-1 group-title="" tvg-id="YanBianWeiShi" tvg-logo="" valid="true",延边卫视
+https://srs.iyb983.cn:443/video/CYS/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",延边新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/jlyb/sd/live.m3u8
+#EXTINF:-1 group-title="Movie" tvg-id="YunNanWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" valid="true",云南卫视
+https://hc9lby9bzw8zcar.wcetv.com/hls/yunnantv.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",余姚新闻综合 (576p)
+https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",余姚姚江文化 (576p)
+https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",浙江 Ⅰ 绍兴影视 (720p)
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",浙江 Ⅰ 绍兴综合 (576p)
+http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 group-title="Religious" tvg-id="AndoTV.cn@SD" tvg-logo="https://i.imgur.com/EpTsFVu.png" valid="true",Ando TV
 http://play.kankanlive.com/live/1711956137852982.m3u8
 #EXTINF:-1 group-title="News" tvg-id="AnshunComprehensiveNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/anshun.jpg" valid="true",Anshun Comprehensive News Channel
@@ -5601,263 +5799,65 @@ https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
 https://liveh12.vtvprime.vn/hls/VTV5_TNB/04.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="VTV5TayNguyen.vn@HD" tvg-logo="https://i.imgur.com/Hlcnqqt.png" valid="true",VTV5 Tay Nguyen HD
 https://liveh12.vtvprime.vn/hls/VTV5_TN/03.m3u8
-#EXTINF:-1 group-title="" tvg-id="AiQiYi" tvg-logo="" valid="true",爱奇艺
-http://php.jdshipin.com/smt.php?id=Qiyi
-#EXTINF:-1 group-title="" tvg-id="AoMenMACAU" tvg-logo="" valid="true",澳门MACAU
-http://php.jdshipin.com/TVOD/iptv.php?id=as
-#EXTINF:-1 group-title="" tvg-id="AoMenTiYu" tvg-logo="" valid="true",澳门体育
-https://cdn6.163189.xyz/163189/amty
-#EXTINF:-1 group-title="" tvg-id="AoMenZongYi" tvg-logo="" valid="true",澳门综艺
-https://cdn6.163189.xyz/163189/amzy
-#EXTINF:-1 group-title="" tvg-id="AoShiAoMen" tvg-logo="" valid="true",澳视澳门
-http://php.jdshipin.com/TVOD/iptv.php?id=asam
-#EXTINF:-1 group-title="" tvg-id="AstroAEC" tvg-logo="" valid="true",Astro AEC
-http://php.jdshipin.com/smt.php?id=AEC
-#EXTINF:-1 group-title="" tvg-id="AstroAOD" tvg-logo="" valid="true",Astro AOD
-http://php.jdshipin.com/TVOD/iptv.php?id=aod
-#EXTINF:-1 group-title="" tvg-id="AstroQJ" tvg-logo="" valid="true",Astro QJ
-http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1 group-title="" tvg-id="BaDuKongJian" tvg-logo="" valid="true",八度空间
-https://cdn6.163189.xyz/163189/8tv
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",白山新闻综合 [Geo-blocked]
-https://stream2.jlntv.cn/baishan1/sd/live.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",贝爷影厅
-http://epg.112114.xyz/douyu/252802
-#EXTINF:-1 group-title="" tvg-id="CCTV11" tvg-logo="" valid="true",CCTV-11戏曲
-http://23.237.228.134/live3/CCTV11.m3u8
-#EXTINF:-1 group-title="" tvg-id="CCTV15" tvg-logo="" valid="true",CCTV-15音乐
-http://23.237.228.134/live3/CCTV15.m3u8
-#EXTINF:-1 group-title="" tvg-id="CCTV17" tvg-logo="" valid="true",CCTV-17农业农村
-http://23.237.228.134/live3/CCTV17.m3u8
-#EXTINF:-1 group-title="Movie" tvg-id="Cctv-4ZhongWenGuoJiMeiZhou.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" valid="true",CCTV-4中文国际美洲
-https://hc9lby9bzw8zcar.wcetv.com/hls/cctv4.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",长春综合 [Geo-blocked]
-https://stream2.jlntv.cn/jlcc/sd/live.m3u8
-#EXTINF:-1 group-title="" tvg-id="Channel5" tvg-logo="" valid="true",Channel 5
-https://cdn6.163189.xyz/163189/ch5
-#EXTINF:-1 group-title="" tvg-id="Channel8" tvg-logo="" valid="true",Channel 8
-https://cdn6.163189.xyz/163189/ch8
-#EXTINF:-1 group-title="" tvg-id="ChannelU" tvg-logo="" valid="true",Channel U
-https://cdn6.163189.xyz/163189/chu
-#EXTINF:-1 group-title="" tvg-id="ChongWenJingDian" tvg-logo="" valid="true",重温经典
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-#EXTINF:-1 group-title="Movie" tvg-id="DaWanQuWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" valid="true",大湾区卫视
-https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
-#EXTINF:-1 group-title="" tvg-id="FeiCuiTai" tvg-logo="" valid="true",翡翠台
-https://php.jdshipin.com/smt.php?id=Tvbjade
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",福州电视台少儿频道 (FZTV-少儿) (1080p)
-http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",福州广播电视台都市生活频道 (FZTV-3) (1080p)
-http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",福州广播电视台新闻综合频道 (FZTV-1) (1080p)
-http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
-#EXTINF:-1 group-title="" tvg-id="GanSuWeiShi" tvg-logo="" valid="true",甘肃卫视
-http://23.237.228.134/live8/gansu.m3u8
-#EXTINF:-1 group-title="" tvg-id="GuangDongTiYu" tvg-logo="" valid="true",广东体育
-http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-#EXTINF:-1 group-title="Movie" tvg-id="GuangDongWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" valid="true",广东卫视
-https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
-#EXTINF:-1 group-title="" tvg-id="GuangDongZhuJiang" tvg-logo="" valid="true",广东珠江
-http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-#EXTINF:-1 group-title="" tvg-id="HaiNanWeiShi" tvg-logo="" valid="true",海南卫视
-http://23.237.228.134/live6/hainan.m3u8
-#EXTINF:-1 group-title="" tvg-id="HaiXiaWeiShi" tvg-logo="" valid="true",海峡卫视
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",河源综合 (540p)
-https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",红牛REDBULL TV (720p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="" tvg-id="HOY77" tvg-logo="" valid="true",HOY 77
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 group-title="" tvg-id="HuaLiFeiCuiTai" tvg-logo="" valid="true",华丽翡翠台
-https://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbjade
-#EXTINF:-1 group-title="" tvg-id="HuaLiTai" tvg-logo="" valid="true",华丽台
-http://php.jdshipin.com/TVOD/iptv.php?id=huali
-#EXTINF:-1 group-title="" tvg-id="HuNanAiWan" tvg-logo="" valid="true",湖南爱晚
-https://php.jdshipin.com/iptv.php?id=hngg
-#EXTINF:-1 group-title="" tvg-id="HuNanDianShiJu" tvg-logo="" valid="true",湖南电视剧
-https://php.jdshipin.com/iptv.php?id=hndsj
-#EXTINF:-1 group-title="" tvg-id="HuNanDianYing" tvg-logo="" valid="true",湖南电影
-http://php.jdshipin.com:8880/iptv.php?id=hndy
-#EXTINF:-1 group-title="" tvg-id="HuNanDuShi" tvg-logo="" valid="true",湖南都市
-https://php.jdshipin.com/iptv.php?id=hnds
-#EXTINF:-1 group-title="" tvg-id="HuNanGuoJi" tvg-logo="" valid="true",湖南国际
-http://php.jdshipin.com:8880/iptv.php?id=hngj
-#EXTINF:-1 group-title="" tvg-id="HuNanJingShi" tvg-logo="" valid="true",湖南经视
-http://php.jdshipin.com:8880/iptv.php?id=hnjs
-#EXTINF:-1 group-title="" tvg-id="iPandaXiongMaoPinDao" tvg-logo="" valid="true",iPanda熊猫频道
-https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",江津经济生活 (480p)
-http://222.179.155.21:1935/ch0.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",江津新闻综合 (480p)
-http://222.179.155.21:1935/ch1.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",集安综合 [Geo-blocked]
-https://stream2.jlntv.cn/ja/sd/live.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",吉林市新闻综合 [Geo-blocked]
-https://stream2.jlntv.cn/jilin1/sd/live.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",金昌公共頻道 (240p) [Geo-blocked]
-http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",金昌綜合頻道 (720p) [Geo-blocked]
-http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",靖江新闻綜合 (480p) [Not 24/7]
-http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="KanDongFang" tvg-logo="" valid="true",看东方
-https://bp-resource-dfl.bestv.cn/155/3/video.m3u8
-#EXTINF:-1 group-title="" tvg-id="KanDuiFang" tvg-logo="" valid="true",看对方
-https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-#EXTINF:-1 group-title="Movie" tvg-id="KeJiaDianShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" valid="true",客家电视
-https://hc9lby9bzw8zcar.wcetv.com/hls/hakkatv.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",辽源新闻综合 [Geo-blocked]
-https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",立法會直播 (Legislative Council Live) (720p)
-https://live3.tdm.com.mo/tv/ch21.live/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",林正英
-http://epg.112114.xyz/douyu/218859
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",刘德华
-http://epg.112114.xyz/douyu/2516864
-#EXTINF:-1 group-title="" tvg-id="MeiRiJingJiXinWen" tvg-logo="" valid="true",每日经济新闻
-https://swiftplay.hxkjmedia.com/tv/spbW.m3u8
-#EXTINF:-1 group-title="" tvg-id="MeiYaDianYing" tvg-logo="" valid="true",美亚电影
-https://php.jdshipin.com/smt.php?id=meiyamovie_twn
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",孟州电视台 (1080p) [Not 24/7]
-http://live.dxhmt.cn:9081/tv/10883-1.m3u8
-#EXTINF:-1 group-title="" tvg-id="MingZhuTai" tvg-logo="" valid="true",明珠台
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",农安新闻综合 [Geo-blocked]
-https://stream2.jlntv.cn/naxw/sd/live.m3u8
-#EXTINF:-1 group-title="Movie" tvg-id="NowXinWenTai.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" valid="true",Now新闻台
-https://hls.168.us.kg/u/332/master.m3u8
-#EXTINF:-1 group-title="Movie" tvg-id="NowZhiBoTai.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" valid="true",Now直播台
-https://hls.168.us.kg/u/331/master.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",欧美大片2
-http://epg.112114.xyz/douyu/2793084
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",欧美大片3
-http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",前郭综合 [Geo-blocked]
-https://stream2.jlntv.cn/qg/sd/live.m3u8
-#EXTINF:-1 group-title="" tvg-id="QingHaiWeiShi" tvg-logo="" valid="true",青海卫视
-http://23.237.228.134/live8/qinghai.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",荣昌综合 (404p) [Not 24/7]
-http://183.64.181.25:40023/rongchang01.m3u8
-#EXTINF:-1 group-title="" tvg-id="RTHK31" tvg-logo="" valid="true",RTHK31
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 group-title="" tvg-id="RTHK32" tvg-logo="" valid="true",RTHK32
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",上虞1新闻综合 (720p) [Not 24/7]
-https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",上虞3新商都 (720p) [Not 24/7]
-https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",上虞經濟文化 (720p) [Not 24/7]
-https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",嵊州综合 (720p) [Not 24/7]
-https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-#EXTINF:-1 group-title="" tvg-id="ShenZhenCaiJingShengHuo" tvg-logo="" valid="true",深圳财经生活
-https://cdn3.163189.xyz/163189/szcjsh
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",四川 Ⅰ 巴中综合台 (1080p) [Not 24/7]
-http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.flv
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",四平新闻综合 [Geo-blocked]
-https://stream2.jlntv.cn/sptv/sd/live.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",松原新闻综合 [Geo-blocked]
-https://stream2.jlntv.cn/sytv/sd/live.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",宿州科教 (1080p) [Not 24/7]
-http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
-#EXTINF:-1 group-title="Movie" tvg-id="TaiShiXinWen.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" valid="true",台视新闻
-https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
-#EXTINF:-1 group-title="Movie" tvg-id="TaiWanYuanShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" valid="true",台湾原视
-https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8
-#EXTINF:-1 group-title="" tvg-id="TianYingJingDian" tvg-logo="" valid="true",天映经典
-http://cdn10.163189.xyz/163189/ccm
-#EXTINF:-1 group-title="" tvg-id="TianYingPinDao" tvg-logo="" valid="true",天映频道
-http://cdn10.163189.xyz/163189/typd
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",通化新闻 [Geo-blocked]
-https://stream2.jlntv.cn/tonghua1/sd/live.m3u8
-#EXTINF:-1 group-title="" tvg-id="TVBFeiCui" tvg-logo="" valid="true",TVB 翡翠
-https://cdn6.163189.xyz/163189/fct
-#EXTINF:-1 group-title="Movie" tvg-id="TvbFeiCuiTai.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" valid="true",TVB翡翠台
-https://hls.168.us.kg/u/81/master.m3u8
-#EXTINF:-1 group-title="" tvg-id="TVBHuaLiFeiCui" tvg-logo="" valid="true",TVB 华丽翡翠
-https://o11.163189.xyz/stream/live/hlt/
-#EXTINF:-1 group-title="" tvg-id="TVBHuaLiFeiCuiTai" tvg-logo="" valid="true",TVB华丽翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=huali
-#EXTINF:-1 group-title="" tvg-id="TVBJ1" tvg-logo="" valid="true",TVB J1
-http://php.jdshipin.com/TVOD/iptv.php?id=j1
-#EXTINF:-1 group-title="" tvg-id="TVBJ2" tvg-logo="" valid="true",TVB J2
-http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 group-title="" tvg-id="TVBMingZhu" tvg-logo="" valid="true",TVB 明珠
-https://o11.163189.xyz/stream/tvb/mzt/
-#EXTINF:-1 group-title="" tvg-id="TVBPLUS" tvg-logo="" valid="true",TVB PLUS
-https://o11.163189.xyz/stream/tvb/tvbp/
-#EXTINF:-1 group-title="" tvg-id="TVBQianXiJingDian" tvg-logo="" valid="true",TVB 千禧经典
-https://o11.163189.xyz/stream/live/tvbc/
-#EXTINF:-1 group-title="" tvg-id="TVBQianXiJingDianTai" tvg-logo="" valid="true",TVB千禧经典台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-#EXTINF:-1 group-title="Movie" tvg-id="TvbWuXianXinWenTai.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" valid="true",TVB无线新闻台
-https://hls.168.us.kg/u/83/master.m3u8
-#EXTINF:-1 group-title="" tvg-id="TVBXingHe" tvg-logo="" valid="true",TVB 星河
-https://o11.163189.xyz/stream/live/tvbxh/
-#EXTINF:-1 group-title="" tvg-id="TVBXingHeGuoYu" tvg-logo="" valid="true",TVB 星河国语
-http://cdn10.163189.xyz/163189/xinghe
-#EXTINF:-1 group-title="" tvg-id="TVBXinWen" tvg-logo="" valid="true",TVB新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-#EXTINF:-1 group-title="Movie" tvg-id="Viutv.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" valid="true",ViuTV
-https://hls.168.us.kg/u/96/master.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",萬州科教頻道 (576p)
-http://123.146.162.24:8017/Cz7WPb8/800/live.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",萬州綜合頻道 (576p)
-http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",文山综合 (1080p) [Not 24/7]
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",武进生活 (576p) [Not 24/7]
-https://live.wjyanghu.com/live/CH2.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",武进新闻 (576p) [Not 24/7]
-https://live.wjyanghu.com/live/CH1.m3u8
-#EXTINF:-1 group-title="" tvg-id="WuXianXinWen" tvg-logo="" valid="true",无线新闻
-https://php.jdshipin.com/smt.php?id=inews_twn
-#EXTINF:-1 group-title="" tvg-id="XiangGangMingZhuTai" tvg-logo="" valid="true",香港明珠台
-http://rihou.cc:555/tv/[Mt]无线明珠
-#EXTINF:-1 group-title="" tvg-id="XiangGangNowCaiJing" tvg-logo="" valid="true",香港now财经
-http://rihou.cc:555/tv/[Mt]Now财经
-#EXTINF:-1 group-title="" tvg-id="XiangGangNowTiYu" tvg-logo="" valid="true",香港now体育
-http://rihou.cc:555/tv/[Mt]Now体育
-#EXTINF:-1 group-title="" tvg-id="XiangGangNowZhiBo" tvg-logo="" valid="true",香港now直播
-http://rihou.cc:555/tv/[Mt]Now直播
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",蕭山生活頻道 (720p) [Not 24/7]
-https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",萧山新闻综合 (720p) [Not 24/7]
-https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",新昌新聞綜合 (1080p) [Not 24/7]
-https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",新昌休闲影视 (1080p) [Not 24/7]
-https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",兴隆综合
-https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",新郑综合 (1080p) [Not 24/7]
-http://live.dxhmt.cn:9081/tv/10184-1.m3u8
-#EXTINF:-1 group-title="" tvg-id="YanBianWeiShi" tvg-logo="" valid="true",延边卫视
-https://srs.iyb983.cn:443/video/CYS/index.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",延边新闻综合 [Geo-blocked]
-https://stream2.jlntv.cn/jlyb/sd/live.m3u8
-#EXTINF:-1 group-title="Movie" tvg-id="YunNanWeiShi.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" valid="true",云南卫视
-https://hc9lby9bzw8zcar.wcetv.com/hls/yunnantv.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",余姚新闻综合 (576p)
-https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",余姚姚江文化 (576p)
-https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",浙江教科
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",浙江经济
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",浙江民生
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",浙江钱江
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",浙江 Ⅰ 绍兴影视 (720p)
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",浙江 Ⅰ 绍兴综合 (576p)
-http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",浙江新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="" tvg-logo="" valid="true",之江纪录
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="AntenneKaernten.at@SD" tvg-logo="https://i.imgur.com/nUKFDsb.jpeg" valid="true",Antenne Kaernten (720p)
+https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="AntenneSteiermark.at@SD" tvg-logo="https://i.imgur.com/qnappvd.jpeg" valid="true",Antenne Steiermark (720p)
+https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-id="ATV2.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_ATV2.svg/512px-Logo_ATV2.svg.png" valid="true",ATV2 HD
+https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
+#EXTINF:-1 group-title="Entertainment" tvg-id="BalkanRadioSalzburg.at@SD" tvg-logo="https://i.imgur.com/UDyxgXf.png" valid="true",Balkan Radio Salzburg (480p)
+https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-id="FS1Salzburg.at@SD" tvg-logo="https://i.imgur.com/74gMaPK.png" valid="true",FS1 Salzburg (720p) [Not 24/7]
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="FUELTV.at@SD" tvg-logo="https://i.imgur.com/I8mviBy.png" valid="true",FUEL TV (1080p)
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="HitradioO3.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/512px-Hitradio_%C3%963.svg.png" valid="true",Hitradio O3
+https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd
+#EXTINF:-1 group-title="Religious" tvg-id="KITTV.at@SD" tvg-logo="https://i.imgur.com/5rDo1Za.png" valid="true",KIT-TV (720p)
+https://everest.pa-hosting.de:3591/live/joseflive.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Kronehit.at@SD" tvg-logo="https://i.imgur.com/dQJQv1X.png" valid="true",Kronehit (1080p)
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="KTV.at@SD" tvg-logo="https://i.imgur.com/RYbR4Sf.png" valid="true",K-TV (720p)
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 group-title="General" tvg-id="LandleTV.at@SD" tvg-logo="https://i.imgur.com/omLVQ4r.png" valid="true",Ländle TV (1080p) [Not 24/7]
+https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-id="N24DokuAustria.at@SD" tvg-logo="https://i.imgur.com/qgoXJu4.png" valid="true",N24 Doku
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f1163-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3c70bac9-b6d8-44d7-bde9-a992a6bfd7ab
+#EXTINF:-1 group-title="General" tvg-id="Okto.at@SD" tvg-logo="https://i.imgur.com/9XfhgbS.png" valid="true",Okto TV (1080p)
+https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-id="ORF1.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/512px-ORF_1_2019.svg.png" valid="true",ORF 1 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
+#EXTINF:-1 group-title="General" tvg-id="ORF2Tirol.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/512px-ORF2_logo_n.svg.png" valid="true",ORF 2 Tirol HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
+#EXTINF:-1 group-title="General" tvg-id="ORF2Wien.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/512px-ORF2_logo_n.svg.png" valid="true",ORF 2 Wien (1080p)
+http://79.127.207.193/ORF2/playlist.m3u8
+#EXTINF:-1 group-title="Culture" tvg-id="ORFIII.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/512px-ORF_III_Logo_Monochrom.svg.png" valid="true",ORF III HD (720p)
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="ORFKids.at@SD" tvg-logo="https://i.imgur.com/Zxuah2b.png" valid="true",ORF Kids (720p)
+https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
+#EXTINF:-1 group-title="Undefined" tvg-id="R9.at@SD" tvg-logo="https://i.imgur.com/SVJiXxh.png" valid="true",R9 (720p) [Not 24/7]
+https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="RedBullTV.at@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" valid="true",Red Bull TV (1080p)
+https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="RTV.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png" valid="true",RTV (1080p) [Not 24/7]
+http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1 group-title="Travel" tvg-id="SchladmingDachsteinTV.at@SD" tvg-logo="https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg" valid="true",Schladming-Dachstein TV (720p)
+https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="ServusTV.at@HD" tvg-logo="https://i.imgur.com/6W637Gn.png" valid="true",ServusTV HD
+https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
+#EXTINF:-1 group-title="General" tvg-id="SteiermarkTV.at@SD" tvg-logo="https://i.imgur.com/AJrUPze.png" valid="true",Steiermark TV (1080p)
+https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
+#EXTINF:-1 group-title="General" tvg-id="StimmungsgartenTV.at@SD" tvg-logo="https://i.postimg.cc/FHqh4Rz4/stimmungsgartentv.png" valid="true",Stimmungsgarten TV
+https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8
+#EXTINF:-1 group-title="Outdoor" tvg-id="SwamijiTVAmerican.at@SD" tvg-logo="https://i.imgur.com/nrLcuzs.png" valid="true",Swamiji TV American (1080p) [Not 24/7]
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
+#EXTINF:-1 group-title="Outdoor" tvg-id="SwamijiTVAustralian.at@SD" tvg-logo="https://i.imgur.com/nrLcuzs.png" valid="true",Swamiji TV Australian (1080p) [Not 24/7]
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
+#EXTINF:-1 group-title="Outdoor" tvg-id="SwamijiTVEuropean.at@SD" tvg-logo="https://i.imgur.com/nrLcuzs.png" valid="true",Swamiji TV European (1080p) [Not 24/7]
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="TirolTV.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/TIROL_TV_Logo_2019.png/512px-TIROL_TV_Logo_2019.png" valid="true",Tirol TV (720p) [Not 24/7]
+https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="TV1Oberosterreich.at@SD" tvg-logo="https://i.postimg.cc/Qx34YmYp/tv1oberosterreich.png" valid="true",TV 1 Oberösterreich (1080p)
+https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-id="W24.at@SD" tvg-logo="https://i.imgur.com/FpVNrxk.png" valid="true",W24 (720p) [Not 24/7]
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
