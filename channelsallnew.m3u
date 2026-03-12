@@ -1,0 +1,426 @@
+#EXTM3U  x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml",tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/compressed/epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
+
+#EXTINF:-1 group-title="" tvg-id="AoMenMACAU" tvg-logo="" cid="000",澳门MACAU
+http://php.jdshipin.com/TVOD/iptv.php?id=as
+
+#EXTINF:-1 group-title="" tvg-id="AoMenTiYu" tvg-logo="" cid="000",澳门体育
+https://cdn6.163189.xyz/163189/amty
+
+#EXTINF:-1 group-title="" tvg-id="AoMenZongYi" tvg-logo="" cid="000",澳门综艺
+https://cdn6.163189.xyz/163189/amzy
+
+#EXTINF:-1 group-title="" tvg-id="AoShiAoMen" tvg-logo="" cid="000",澳视澳门
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
+
+#EXTINF:-1 group-title="" tvg-id="Channel5" tvg-logo="https://i.imgur.com/9NKp5aV.png" cid="000",Channel 5
+https://cdn6.163189.xyz/163189/ch5
+
+#EXTINF:-1 group-title="" tvg-id="Channel8" tvg-logo="https://i.imgur.com/6YPZc24.png" cid="000",Channel 8
+https://cdn6.163189.xyz/163189/ch8
+
+#EXTINF:-1 group-title="" tvg-id="ChannelU" tvg-logo="https://i.imgur.com/9MzEjoY.png" cid="000",Channel U
+https://cdn6.163189.xyz/163189/chu
+
+#EXTINF:-1 group-title="" tvg-id="ChongWenJingDian" tvg-logo="" cid="000",重温经典
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+
+#EXTINF:-1 group-title="Movie" tvg-id="Viutv.cn@HD" tvg-logo="https://i.imgur.com/iSVnzR1.png" cid="000",ViuTV
+https://hls.168.us.kg/u/96/master.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="DidikTVKPM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv" cid="000",DidikTv KPM
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e509735b5f89750d42ace2410ead7210": "1726083509d570b5de4730ab9f338cc3"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_ott.mpd
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="BERITARTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm" cid="000",BERITA RTM
+https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="TVSUKAN" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SukanRtm" cid="000",SUKAN RTM
+https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="TVIKIM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim" cid="000", TV Ikim
+https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="DuniaSinema" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema" cid="000", Dunia Sinema
+#KODIPROP:inputstream.adaptive.license_type=org.w3 .clearkey
+#KODIPROP:inputstream.adaptive.license_key={"01a17625701e4734b02aa22c8657bd6f":"975a483df422455dbc29a1d83ed6f154"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(DuniaSin)/master.mpd
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="Dewan Rakyat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen" cid="000",Dewan Rakyat
+https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="Dewan Negara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen" cid="000",DewanNegara
+https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="TV6" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv6" cid="000",TV6
+https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
+
+#EXTINF:-1 group-title="" tvg-id="KUDADA" tvg-logo="599_144" cid="100",KUDADA
+https://
+
+#EXTINF:-1 group-title="" tvg-id="TV1_HD" tvg-logo="395_144" cid="101",TV1 HD
+https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
+
+#EXTINF:-1 group-title="" tvg-id="TV2_HD" tvg-logo="396_144" cid="102",TV2 HD
+https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
+
+#EXTINF:-1 group-title="" tvg-id="TV3" tvg-logo="106_144" cid="103",TV3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3bc3f0e518aed92e80a98118e5bc2c10": "5fce364fbc4499856597b19a96f44648"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Ria" tvg-logo="193_144" cid="104",Astro Ria
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Prima" tvg-logo="316_144" cid="105",Astro Prima
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Oasis" tvg-logo="313_144" cid="106",Astro Oasis
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Citra" tvg-logo="301_144" cid="108",Astro Citra
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Rania" tvg-logo="401_144" cid="112",Astro Rania
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Aura" tvg-logo="400_144" cid="113",Astro Aura
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Al-Hijrah" tvg-logo="149_144" cid="114",Al-Hijrah
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"41a42fb5af457501c11bb9b158d5a110": "57a8d6f9e3832887db18ea6071118736"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
+
+#EXTINF:-1 group-title="" tvg-id="Colors_Hindi_HD" tvg-logo="365_144" cid="116",Colors Hindi HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Z_Cinema_HD" tvg-logo="490_144" cid="117",Z Cinema HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="TV_Sarawak" tvg-logo="429_144" cid="122",TV Sarawak
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c3e956b38ae993be1494c7cfa17b1110": "55ccaee886b340dd901f4bf8dd9d3a6a"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
+
+#EXTINF:-1 group-title="" tvg-id="TV_Okey_HD" tvg-logo="461_144" cid="146",TV Okey HD
+https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
+
+#EXTINF:-1 group-title="" tvg-id="NTV7" tvg-logo="93_144" cid="147",NTV7
+https://
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="8TV" tvg-logo="115_144", cid="148",8TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0cb7980e9d1d8957f9a293ed96342410": "11da1ad368d0cacffe4824b6b35e22b7"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
+#https://cdn6.163189.xyz/163189/8tv
+
+#EXTINF:-1 group-title="" tvg-id="TV9" tvg-logo="48_144" cid="149",TV9
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"27828727f0a3a0b4fbc668378ccf8c10": "958e9cb7389e20948de5a542d2729ecf"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Vaanavil" tvg-logo="397_144" cid="201",Astro Vaanavil
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Vinmeen" tvg-logo="167_144" cid="202",Astro Vinmeen
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Vellithirai_HD" tvg-logo="399_144" cid="203",Astro Vellithirai HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="SUN_TV_HD" tvg-logo="358_144" cid="211",SUN TV HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Sun_Music_HD" tvg-logo="417_144" cid="212",Sun Music HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Adithya" tvg-logo="67_144" cid="214",Adithya
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Sun_News" tvg-logo="478_144" cid="215",Sun News
+https://
+
+#EXTINF:-1 group-title="" tvg-id="KTV" tvg-logo="477_144" cid="216",KTV
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Sun_Life" tvg-logo="476_144" cid="217",Sun Life
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Star_Vijay_HD" tvg-logo="357_144" cid="221",Star Vijay HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Colors_Tamil_HD" tvg-logo="298_144" cid="222",Colors Tamil HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Z_Tamil_HD" tvg-logo="297_144" cid="223",Z Tamil HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Thangathirai" tvg-logo="177_144" cid="241",Astro Thangathirai
+https://
+
+#EXTINF:-1 group-title="" tvg-id="iQIYI_HD" tvg-logo="335_144" cid="300",爱奇艺 HD
+http://php.jdshipin.com/smt.php?id=Qiyi
+
+#EXTINF:-1 group-title="" tvg-id="TVB_Classic_HD" tvg-logo="425_144" cid="305",TVB 千禧经典台 HD
+https://o11.163189.xyz/stream/live/tvbc/
+#http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+
+#EXTINF:-1 group-title="" tvg-id="Astro_AEC" tvg-logo="182_144" cid="306",Astro AEC
+http://php.jdshipin.com/smt.php?id=AEC
+
+#EXTINF:-1 group-title="" tvg-id="Astro_QJ" tvg-logo="158_144" cid="308",Astro QJ
+http://php.jdshipin.com/smt.php?id=Quanjia
+
+#EXTINF:-1 group-title="" tvg-id="Celestial_Movies_HD" tvg-logo="134_144" cid="309",Celestial Movies HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="TVB_Jade" tvg-logo="203_144" cid="310",TVB Jade
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_AOD" tvg-logo="172_144" cid="311",Astro AOD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="CTI_Asia_HD" tvg-logo="424_144" cid="316",CTI Asia HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="TVB_Entertainment_News_HD" tvg-logo="427_144" cid="317",TVB Entertainment News HD
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+
+#EXTINF:-1 group-title="" tvg-id="TVB_Xing_He_HD" tvg-logo="383_144" cid="319",TVB 星河 HD
+https://o11.163189.xyz/stream/live/tvbxh/
+
+#EXTINF:-1 group-title="" tvg-id="TVBS_Asia_HD" tvg-logo="384_144" cid="320",TVBS Asia HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Celestial_Classic_Movies" tvg-logo="187_144" cid="321",Celestial Classic Movies
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Phoenix_Chinese_Channel_HD" tvg-logo="382_144" cid="325",Phoenix Chinese Channel HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Phoenix_Info_News_HD" tvg-logo="43_144" cid="326",Phoenix Info News HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Hua_Hee_Dai" tvg-logo="162_144" cid="333",Astro Hua Hee Dai
+https://
+
+#EXTINF:-1 group-title="" tvg-id="CCTV4_HD" tvg-logo="385_144" cid="335",CCTV4 HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="KBS_World_HD" tvg-logo="161_144" cid="392",KBS World HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="ONE_HD" tvg-logo="133_144" cid="393",ONE HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="tvN_HD" tvg-logo="190_144" cid="395",tvN HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="K-Plus_HD" tvg-logo="266_144" cid="396",K-Plus HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="NHK_World_Premium" tvg-logo="428_144" cid="398",NHK World Premium
+https://
+
+#EXTINF:-1 group-title="" tvg-id="HITS_MOVIES_HD" tvg-logo="179_144" cid="401",HITS MOVIES HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Boo" tvg-logo="251_144" cid="404",Astro Boo
+https://
+
+#EXTINF:-1 group-title="" tvg-id="HBO_HD" tvg-logo="" cid="411",HBO HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="CINEMAX_HD" tvg-logo="" cid="412",CINEMAX HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Showcase" tvg-logo="454_144" cid="413",Astro Showcase
+https://
+
+#EXTINF:-1 group-title="" tvg-id="HBO_Family" tvg-logo="" cid="414",HBO Family
+https://
+
+#EXTINF:-1 group-title="" tvg-id="HBO_Hits" tvg-logo="" cid="415",HBO Hits
+https://
+
+#EXTINF:-1 group-title="" tvg-id="tvN_Movies_HD" tvg-logo="274_144" cid="416",tvN Movies HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Awani_HD" tvg-logo="436_144" cid="501",Astro Awani HD
+https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
+
+#EXTINF:-1 group-title="" tvg-id="Bernama_TV" tvg-logo="160_144" cid="502",Bernama TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1406bbf218ca14f967034fcf4abf7710": "39a27aa2cc84a29b665fcc4dbf9c54b6"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
+
+#EXTINF:-1 group-title="" tvg-id="CGTN_HD" tvg-logo="426_144" cid="503",CGTN HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="CNN_HD" tvg-logo="336_144" cid="511",CNN HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="BBC_News_HD" tvg-logo="366_144" cid="512",BBC News HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Al_Jazeera_English_HD" tvg-logo="374_144" cid="513",Al Jazeera English HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="CNA_HD" tvg-logo="295_144" cid="515",CNA HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="CNBC_Asia_HD" tvg-logo="423_144" cid="516",CNBC Asia HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Bloomberg_TV_HD" tvg-logo="422_144" cid="517",Bloomberg TV HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="ABC_Australia_HD" tvg-logo="461_144" cid="518",ABC Australia HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Love_Nature_4K" tvg-logo="472_144" cid="549",Love Nature 4K
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Love_Nature" tvg-logo="472_144" cid="550",Love Nature
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Discovery_Channel_HD" tvg-logo="376_144" cid="552",Discovery Channel HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Discovery_Asia_HD" tvg-logo="136_144" cid="553",Discovery Asia HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="BBC_Earth" tvg-logo="452_144" cid="554",BBC Earth
+https://
+
+#EXTINF:-1 group-title="" tvg-id="History_HD" tvg-logo="144_144" cid="555",History HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="CGTN_Documentary" tvg-logo="587_144" cid="556",CGTN Documentary
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Tutor_TV" tvg-logo="411_144" cid="603",Astro Tutor TV
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Ceria" tvg-logo="386_144" cid="611",Astro Ceria
+https://
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="CartoonNetwork " tvg-logo="371_144", cid="615",Cartoon Network HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1a05bebf706408431a390c3f9f40f410": "89c5ff9f8e65c7fe966afbd2f9128e5f"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
+
+#EXTINF:-1 group-title="" tvg-id="Nickelodeon_HD" tvg-logo="370_144" cid="616",Nickelodeon HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Nick_Jr." tvg-logo="392_144" cid="617",Nick Jr.
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Moonbug" tvg-logo="465_144" cid="618",Moonbug
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Blippi_&_Friends" tvg-logo="566" cid="619",Blippi & Friends
+https://
+
+#EXTINF:-1 group-title="" tvg-id="CBeebies" tvg-logo="481_144" cid="620",CBeebies
+https://
+
+#EXTINF:-1 group-title="" tvg-id="AXN_HD" tvg-logo="131_144" cid="701",AXN HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="HITS_NOW" tvg-logo="524_144" cid="702",HITS NOW
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Lifetime_HD" tvg-logo="447_144" cid="703",Lifetime HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="HITS_HD" tvg-logo="179_144" cid="706",HITS HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="TLC_HD" tvg-logo="338_144" cid="707",TLC HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Asian_Food_Network_HD" tvg-logo="91_144" cid="709",Asian Food Network HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Crime_&_Investigation_HD" tvg-logo="369_144" cid="714",Crime & Investigation HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="HGTV_HD" tvg-logo="198_144" cid="715",HGTV HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="BBC_Lifestyle_HD" tvg-logo="451_144" cid="717",BBC Lifestyle HD
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Arena" tvg-logo="235_144" cid="801",Astro Arena
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Arena_2" tvg-logo="457_144" cid="802",Astro Arena 2
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Arena_Bola" tvg-logo="486_144" cid="803",Arena Bola
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Arena_Bola_2" tvg-logo="487_144" cid="804",Arena Bola 2
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Sports_UHD_805" tvg-logo="308_144_144" cid="805",Astro Sports UHD 805
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Sports_Plus_2" tvg-logo="542_144" cid="809",Astro Sports Plus 2
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Grandstand" tvg-logo="543_144" cid="810",Astro Grandstand
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Premier_League" tvg-logo="536_144" cid="811",Astro Premier League
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Premier_League_2" tvg-logo="537_144" cid="812",Astro Premier League 2
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Premier_League_3" tvg-logo="538_144" cid="813",Astro Premier League 3
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Football" tvg-logo="539_144" cid="814",Astro Football
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Badminton" tvg-logo="540_144" cid="815",Astro Badminton
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Sports_Plus" tvg-logo="542_144" cid="817",Astro Sports Plus
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Premier_League_4" tvg-logo="536_144" cid="818",Astro Premier League 4
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Premier_League_5" tvg-logo="536_144" cid="819",Astro Premier League 5
+https://
+
+#EXTINF:-1 group-title="" tvg-id="beIN_SPORTS_1" tvg-logo="236_144" cid="820",beIN SPORTS 1
+https://
+
+#EXTINF:-1 group-title="" tvg-id="beIN_SPORTS_2" tvg-logo="466_144" cid="821",beIN SPORTS 2
+https://
+
+#EXTINF:-1 group-title="" tvg-id="beIN_SPORTS_3" tvg-logo="313_144" cid="822",beIN SPORTS 3
+https://
+
+#EXTINF:-1 group-title="" tvg-id="W-Sport" tvg-logo="503_144" cid="826",W-Sport
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Golf" tvg-logo="189_144" cid="831",Astro Golf
+https://
+
+#EXTINF:-1 group-title="" tvg-id="Astro_Cricket" tvg-logo="" cid="832",Astro Cricket
+https://
