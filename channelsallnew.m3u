@@ -78,7 +78,7 @@ https://
 #EXTINF:-1 group-title="" tvg-id="Astro_Prima" tvg-logo="316_144" cid="105",Astro Prima
 https://
 
-#EXTINF:-1 group-title="" tvg-id="Astro_Oasis" tvg-logo="313_144" cid="106",Astro Oasis
+#EXTINF:-1 group-title="" tvg-id="Astro_Oasis" tvg-logo="315_144" cid="106",Astro Oasis
 https://
 
 #EXTINF:-1 group-title="" tvg-id="Astro_Citra" tvg-logo="301_144" cid="108",Astro Citra
@@ -114,7 +114,7 @@ https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
 #EXTINF:-1 group-title="" tvg-id="NTV7" tvg-logo="93_144" cid="147",NTV7
 https://
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="8TV" tvg-logo="115_144", cid="148",8TV
+#EXTINF:-1 group-title="siaranMy" tvg-id="8TV" tvg-logo="115_144" cid="148",8TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0cb7980e9d1d8957f9a293ed96342410": "11da1ad368d0cacffe4824b6b35e22b7"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
@@ -237,7 +237,7 @@ https://
 https://
 
 #EXTINF:-1 group-title="" tvg-id="HBO_HD" tvg-logo="" cid="411",HBO HD
-https://
+https://hls.iill.top/api/HBO/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="CINEMAX_HD" tvg-logo="" cid="412",CINEMAX HD
 https://
@@ -246,10 +246,10 @@ https://
 https://
 
 #EXTINF:-1 group-title="" tvg-id="HBO_Family" tvg-logo="" cid="414",HBO Family
-https://
+https://hls.iill.top/api/HBO-Family/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="HBO_Hits" tvg-logo="" cid="415",HBO Hits
-https://
+https://hls.iill.top/api/HBO-Hits/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="tvN_Movies_HD" tvg-logo="274_144" cid="416",tvN Movies HD
 https://
@@ -290,7 +290,7 @@ https://
 #EXTINF:-1 group-title="" tvg-id="Love_Nature_4K" tvg-logo="472_144" cid="549",Love Nature 4K
 https://
 
-#EXTINF:-1 group-title="" tvg-id="Love_Nature" tvg-logo="472_144" cid="550",Love Nature
+#EXTINF:-1 group-title="" tvg-id="Love_Nature" tvg-logo="483_144" cid="550",Love Nature
 https://
 
 #EXTINF:-1 group-title="" tvg-id="Discovery_Channel_HD" tvg-logo="376_144" cid="552",Discovery Channel HD
@@ -314,7 +314,7 @@ https://
 #EXTINF:-1 group-title="" tvg-id="Astro_Ceria" tvg-logo="386_144" cid="611",Astro Ceria
 https://
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="CartoonNetwork " tvg-logo="371_144", cid="615",Cartoon Network HD
+#EXTINF:-1 group-title="siaranMy" tvg-id="CartoonNetwork" tvg-logo="371_144" cid="615",Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1a05bebf706408431a390c3f9f40f410": "89c5ff9f8e65c7fe966afbd2f9128e5f"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
@@ -329,7 +329,7 @@ https://
 #EXTINF:-1 group-title="" tvg-id="Moonbug" tvg-logo="465_144" cid="618",Moonbug
 https://
 
-#EXTINF:-1 group-title="" tvg-id="Blippi_&_Friends" tvg-logo="566" cid="619",Blippi & Friends
+#EXTINF:-1 group-title="" tvg-id="Blippi_&_Friends" tvg-logo="566_144" cid="619",Blippi & Friends
 https://
 
 #EXTINF:-1 group-title="" tvg-id="CBeebies" tvg-logo="481_144" cid="620",CBeebies
